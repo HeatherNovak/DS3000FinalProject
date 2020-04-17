@@ -1,0 +1,592 @@
+State,Name,Link,Address,Graduation Rate,SAT,AP,College Attendance,College Retention
+massachusetts,MA Academy for Math and Science School,/massachusetts/worcester/34-MA-Academy-For-Math-And-Science-School/,"85 Prescott Street, Worcester, MA 01605",100,1446,0,88,100
+massachusetts,Lynnfield High School,/massachusetts/lynnfield/997-Lynnfield-High-School/,"275 Essex Street, Lynnfield, MA 01940",99,1141,25,86,95
+massachusetts,Acton-Boxborough Regional High School,/massachusetts/acton/67-Acton-Boxborough-Regional-High-School/,"36 Charter Road, Acton, MA 01720",97,1307,21,87,97
+massachusetts,Ashland High School,/massachusetts/ashland/115-Ashland-High-School/,"65 East Union Street, Ashland, MA 01721",96,1200,19,88,96
+massachusetts,Blackstone Valley Regional Vocational Tech High School,/massachusetts/upton/217-Blackstone-Valley-Regional-Vocational-Tech-High-School/,"65 Pleasant Street, Upton, MA 01568",99,1091,22,70,96
+massachusetts,Chelmsford High School,/massachusetts/chelmsford/470-Chelmsford-High-School/,"200 Richardson Road, Chelmsford, MA 01863",98,1182,24,86,92
+massachusetts,Concord Carlisle High School,/massachusetts/concord/513-Concord-Carlisle-High-School/,"500 Walden Street, Concord, MA 01742",97,1267,16,84,94
+massachusetts,Dover-Sherborn Regional High School,/massachusetts/dover/554-Dover-Sherborn-Regional-High-School/,"9 Junction Street, Dover, MA 02030",99,1285,30,87,94
+massachusetts,Duxbury High School,/massachusetts/duxbury/569-Duxbury-High-School/,"130 Saint George Street, Duxbury, MA 02332",99,1181,29,83,93
+massachusetts,Hamilton-Wenham Regional High School,/massachusetts/hamilton/765-Hamilton-Wenham-Regional-High-School/,"775 Bay Road, Hamilton, MA 01982",99,1177,31,89,99
+massachusetts,Hingham High School,/massachusetts/hingham/814-Hingham-High-School/,"17 Union Street, Hingham, MA 02043",97,1201,21,84,97
+massachusetts,Hopkinton High School,/massachusetts/hopkinton/849-Hopkinton-High-School/,"90 Hayden Rowe Street, Hopkinton, MA 01748",99,1246,45,87,96
+massachusetts,Lexington High School,/massachusetts/lexington/912-Lexington-High-School/,"251 Waltham Street, Lexington, MA 02421",99,1297,22,83,96
+massachusetts,Masconomet Regional High School,/massachusetts/boxford/1042-Masconomet-Regional-High-School/,"20 Endicott Road, Boxford, MA 01921",98,1179,26,89,95
+massachusetts,Medfield Senior High School,/massachusetts/medfield/1055-Medfield-Senior-High-School/,"88 South Street, Medfield, MA 02052",98,1208,43,92,97
+massachusetts,Needham High School,/massachusetts/needham/1168-Needham-High-School/,"609 Webster Street, Needham, MA 02494",98,1218,29,84,96
+massachusetts,Algonquin Regional High School,/massachusetts/northborough/1278-Algonquin-Regional-High-School/,"79 Bartlett Street, Northborough, MA 01532",98,1191,28,89,97
+massachusetts,Norwell High School,/massachusetts/norwell/1293-Norwell-High-School/,"18 South Street, Norwell, MA 02061",100,1176,32,89,97
+massachusetts,Wellesley Sr High School,/massachusetts/wellesley/1727-Wellesley-Sr-High-School/,"50 Rice Street, Wellesley, MA 02481",97,1224,20,81,96
+massachusetts,Westborough High School,/massachusetts/westborough/1747-Westborough-High-School/,"90 West Main Street, Westborough, MA 01581",99,1221,20,83,97
+massachusetts,Westwood High School,/massachusetts/westwood/1783-Westwood-High-School/,"200 Nahatan Street, Westwood, MA 02090",96,1193,29,90,96
+massachusetts,Winchester High School,/massachusetts/winchester/1828-Winchester-High-School/,"80 Skillings Road, Winchester, MA 01890",99,1238,21,86,97
+massachusetts,Nipmuc Regional High School,/massachusetts/upton/2590-Nipmuc-Regional-High-School/,"90 Pleasant Street, Upton, MA 01568",92,1154,26,84,92
+massachusetts,MA Academy for Math and Science School,/massachusetts/worcester/34-MA-Academy-For-Math-And-Science-School/,"85 Prescott Street, Worcester, MA 01605",100,1446,0,88,Not available
+massachusetts,Lynnfield High School,/massachusetts/lynnfield/997-Lynnfield-High-School/,"275 Essex Street, Lynnfield, MA 01940",99,1141,25,86,95
+massachusetts,Acton-Boxborough Regional High School,/massachusetts/acton/67-Acton-Boxborough-Regional-High-School/,"36 Charter Road, Acton, MA 01720",97,1307,21,87,97
+massachusetts,Ashland High School,/massachusetts/ashland/115-Ashland-High-School/,"65 East Union Street, Ashland, MA 01721",96,1200,19,88,96
+massachusetts,Blackstone Valley Regional Vocational Tech High School,/massachusetts/upton/217-Blackstone-Valley-Regional-Vocational-Tech-High-School/,"65 Pleasant Street, Upton, MA 01568",99,1091,22,70,96
+massachusetts,Chelmsford High School,/massachusetts/chelmsford/470-Chelmsford-High-School/,"200 Richardson Road, Chelmsford, MA 01863",98,1182,24,86,92
+massachusetts,Concord Carlisle High School,/massachusetts/concord/513-Concord-Carlisle-High-School/,"500 Walden Street, Concord, MA 01742",97,1267,16,84,94
+massachusetts,Dover-Sherborn Regional High School,/massachusetts/dover/554-Dover-Sherborn-Regional-High-School/,"9 Junction Street, Dover, MA 02030",99,1285,30,87,94
+massachusetts,Duxbury High School,/massachusetts/duxbury/569-Duxbury-High-School/,"130 Saint George Street, Duxbury, MA 02332",99,1181,29,83,93
+massachusetts,Hamilton-Wenham Regional High School,/massachusetts/hamilton/765-Hamilton-Wenham-Regional-High-School/,"775 Bay Road, Hamilton, MA 01982",99,1177,31,89,99
+massachusetts,Hingham High School,/massachusetts/hingham/814-Hingham-High-School/,"17 Union Street, Hingham, MA 02043",97,1201,21,84,97
+massachusetts,Hopkinton High School,/massachusetts/hopkinton/849-Hopkinton-High-School/,"90 Hayden Rowe Street, Hopkinton, MA 01748",99,1246,45,87,96
+massachusetts,Lexington High School,/massachusetts/lexington/912-Lexington-High-School/,"251 Waltham Street, Lexington, MA 02421",99,1297,22,83,96
+massachusetts,Masconomet Regional High School,/massachusetts/boxford/1042-Masconomet-Regional-High-School/,"20 Endicott Road, Boxford, MA 01921",98,1179,26,89,95
+massachusetts,Medfield Senior High School,/massachusetts/medfield/1055-Medfield-Senior-High-School/,"88 South Street, Medfield, MA 02052",98,1208,43,92,97
+massachusetts,Needham High School,/massachusetts/needham/1168-Needham-High-School/,"609 Webster Street, Needham, MA 02494",98,1218,29,84,96
+massachusetts,Algonquin Regional High School,/massachusetts/northborough/1278-Algonquin-Regional-High-School/,"79 Bartlett Street, Northborough, MA 01532",98,1191,28,89,97
+massachusetts,Norwell High School,/massachusetts/norwell/1293-Norwell-High-School/,"18 South Street, Norwell, MA 02061",100,1176,32,89,97
+massachusetts,Wellesley Sr High School,/massachusetts/wellesley/1727-Wellesley-Sr-High-School/,"50 Rice Street, Wellesley, MA 02481",97,1224,20,81,96
+massachusetts,Westborough High School,/massachusetts/westborough/1747-Westborough-High-School/,"90 West Main Street, Westborough, MA 01581",99,1221,20,83,97
+massachusetts,Westwood High School,/massachusetts/westwood/1783-Westwood-High-School/,"200 Nahatan Street, Westwood, MA 02090",96,1193,29,90,96
+massachusetts,Winchester High School,/massachusetts/winchester/1828-Winchester-High-School/,"80 Skillings Road, Winchester, MA 01890",99,1238,21,86,97
+massachusetts,Nipmuc Regional High School,/massachusetts/upton/2590-Nipmuc-Regional-High-School/,"90 Pleasant Street, Upton, MA 01568",92,1154,26,84,92
+massachusetts,Arlington High School,/massachusetts/arlington/101-Arlington-High-School/,"869 Massachusetts Avenue, Arlington, MA 02476",97,1216,29,80,92
+massachusetts,Bedford High School,/massachusetts/bedford/166-Bedford-High-School/,"9 Mudge Way, Bedford, MA 01730",98,1203,14,84,93
+massachusetts,Belmont High School,/massachusetts/belmont/182-Belmont-High-School/,"221 Concord Avenue, Belmont, MA 02478",97,1250,38,82,95
+massachusetts,Tahanto Regional High School,/massachusetts/boylston/196-Tahanto-Regional-High-School/,"1001 Main Street, Boylston, MA 01505",97,1177,27,85,93
+massachusetts,O'bryant School Math/Science,/massachusetts/boston/233-Obryant-School-Math-Science/,"55 Malcolm X Boulevard, Boston, MA 02120",96,1084,35,87,91
+massachusetts,Canton High School,/massachusetts/canton/447-Canton-High-School/,"900 Washington Street, Canton, MA 02021",96,1142,24,87,96
+massachusetts,Groton-Dunstable Regional High School,/massachusetts/groton/758-Groton-Dunstable-Regional-High-School/,"703 Chicopee Row, Groton, MA 01450",98,1196,28,88,90
+massachusetts,The Bromfield School,/massachusetts/harvard/784-The-Bromfield-School/,"14 Massachusetts Avenue, Harvard, MA 01451",95,1213,37,84,97
+massachusetts,Holliston High School,/massachusetts/holliston/826-Holliston-High-School/,"370 Hollis Street, Holliston, MA 01746",95,1190,37,85,93
+massachusetts,Lincoln-Sudbury Regional High School,/massachusetts/sudbury/918-Lincoln-Sudbury-Regional-High-School/,"390 Lincoln Road, Sudbury, MA 01776",99,1263,14,81,93
+massachusetts,Littleton High School,/massachusetts/littleton/919-Littleton-High-School/,"56 King Street, Littleton, MA 01460",98,1198,15,85,96
+massachusetts,Mansfield High School,/massachusetts/mansfield/1017-Mansfield-High-School/,"250 East Street, Mansfield, MA 02048",96,1163,18,83,95
+massachusetts,Marshfield High School,/massachusetts/marshfield/1037-Marshfield-High-School/,"167 Forest Street, Marshfield, MA 02050",97,1127,13,76,92
+massachusetts,Nashoba Regional,/massachusetts/bolton/1151-Nashoba-Regional/,"12 Green Road, Bolton, MA 01740",95,1201,27,86,94
+massachusetts,Newton North High School,/massachusetts/newton/1220-Newton-North-High-School/,"457 Walnut Street, Newton, MA 02460",95,1234,24,77,94
+massachusetts,Newton South High School,/massachusetts/newton/1221-Newton-South-High-School/,"140 Brandeis Road, Newton, MA 02459",98,1271,29,79,96
+massachusetts,Pentucket Regional Sr High School,/massachusetts/haverhill/1340-Pentucket-Regional-Sr-High-School/,"24 East Main Street, West Newbury, MA 01985",95,1158,23,81,94
+massachusetts,North Quincy High School,/massachusetts/quincy/1391-North-Quincy-High-School/,"316 Hancock Street, Quincy, MA 02171",96,1120,14,70,90
+massachusetts,Scituate High School,/massachusetts/scituate/1456-Scituate-High-School/,"606 Chief Justice Cushing Highway, Scituate, MA 02066",96,1146,33,83,94
+massachusetts,Sharon High School,/massachusetts/sharon/1467-Sharon-High-School/,"181 Pond Street, Sharon, MA 02067",96,1236,28,87,96
+massachusetts,Shrewsbury Sr High School,/massachusetts/shrewsbury/1475-Shrewsbury-Sr-High-School/,"64 Holden Street, Shrewsbury, MA 01545",97,1195,17,91,93
+massachusetts,Swampscott High School,/massachusetts/swampscott/1603-Swampscott-High-School/,"200 Essex Street, Swampscott, MA 01907",96,1148,24,81,Not available
+massachusetts,Walpole High School,/massachusetts/walpole/1680-Walpole-High-School/,"275 Common Street, Walpole, MA 02081",97,1134,18,87,93
+massachusetts,Wayland High School,/massachusetts/wayland/1716-Wayland-High-School/,"264 Old Connecticut Path, Wayland, MA 01778",98,1255,45,90,96
+massachusetts,Westford Academy,/massachusetts/westford/1767-Westford-Academy/,"30 Patten Road, Westford, MA 01886",98,1258,23,88,97
+massachusetts,Weston High School,/massachusetts/weston/1772-Weston-High-School/,"444 Wellesley Street, Weston, MA 02493",98,1264,40,83,97
+massachusetts,Essex Technical High School,/massachusetts/danvers/6260-Essex-Technical-High-School/,"562 Maple Street, Danvers, MA 01923",97,1000,5,58,85
+massachusetts,Amesbury High School,/massachusetts/amesbury/83-Amesbury-High-School/,"5 Highland Street, Amesbury, MA 01913",94,1170,18,65,79
+massachusetts,Amherst Regional High School,/massachusetts/amherst/91-Amherst-Regional-High-School/,"21 Mattoon Street, Amherst, MA 01002",93,1229,21,79,91
+massachusetts,Andover High School,/massachusetts/andover/93-Andover-High-School/,"80 Shawsheen Road, Andover, MA 01810",97,1202,26,82,96
+massachusetts,Belchertown High School,/massachusetts/belchertown/172-Belchertown-High-School/,"142 Springfield Road, Belchertown, MA 01007",96,1151,10,76,95
+massachusetts,Bellingham High School,/massachusetts/bellingham/176-Bellingham-High-School/,"60 Blackstone Street, Bellingham, MA 02019",92,1102,19,64,80
+massachusetts,Bristol County Agricultural High School,/massachusetts/dighton/388-Bristol-County-Agricultural-High-School/,"135 Center Street, Dighton, MA 02715",100,1072,0,77,90
+massachusetts,Brookline High School,/massachusetts/brookline/416-Brookline-High-School/,"115 Greenough Street, Brookline, MA 02445",94,1265,22,78,94
+massachusetts,Burlington High School,/massachusetts/burlington/425-Burlington-High-School/,"123 Cambridge Street, Burlington, MA 01803",97,1154,23,77,94
+massachusetts,Dedham High School,/massachusetts/dedham/530-Dedham-High-School/,"140 Whiting Avenue, Dedham, MA 02026",94,1098,30,77,89
+massachusetts,Oliver Ames High School,/massachusetts/easton/590-Oliver-Ames-High-School/,"100 Lothrop Street, Easton, MA 02356",99,1141,27,90,90
+massachusetts,Foxborough High School,/massachusetts/foxborough/670-Foxborough-High-School/,"120 South Street, Foxborough, MA 02035",100,1143,25,86,97
+massachusetts,Franklin High School,/massachusetts/franklin/690-Franklin-High-School/,"218 Oak Street, Franklin, MA 02038",96,1164,6,89,95
+massachusetts,Apponequet Regional High School,/massachusetts/lakeville/700-Apponequet-Regional-High-School/,"100 Howland Road, Lakeville, MA 02347",93,1119,24,83,92
+massachusetts,Georgetown Middle/High School,/massachusetts/georgetown/716-Georgetown-Middle-High-School/,"11 Winter Street, Georgetown, MA 01833",95,1143,11,80,90
+massachusetts,Minnechaug Regional High School,/massachusetts/wilbraham/770-Minnechaug-Regional-High-School/,"621 Main Street, Wilbraham, MA 01095",97,1141,18,81,93
+massachusetts,Hopedale Jr Sr High School,/massachusetts/hopedale/844-Hopedale-Jr-Sr-High-School/,"25 Adin Street, Hopedale, MA 01747",98,1156,26,82,93
+massachusetts,Ipswich High School,/massachusetts/ipswich/860-Ipswich-High-School/,"134 High Street, Ipswich, MA 01938",97,1133,23,81,94
+massachusetts,King Philip Regional High School,/massachusetts/wrentham/864-King-Philip-Regional-High-School/,"201 Franklin Street, Wrentham, MA 02093",96,1168,30,88,92
+massachusetts,Lenox Memorial High School,/massachusetts/lenox/894-Lenox-Memorial-High-School/,"197 East Street, Lenox, MA 01240",96,1223,24,78,85
+massachusetts,Marblehead High School,/massachusetts/marblehead/1023-Marblehead-High-School/,"2 Humphrey Street, Marblehead, MA 01945",97,1173,29,82,95
+massachusetts,Medway High School,/massachusetts/medway/1074-Medway-High-School/,"88 Summer Street, Medway, MA 02053",98,1155,34,86,95
+massachusetts,Melrose High School,/massachusetts/melrose/1081-Melrose-High-School/,"360 Lynn Fells Parkway, Melrose, MA 02176",97,1134,28,84,93
+massachusetts,Millis High School,/massachusetts/millis/1120-Millis-High-School/,"245 Plain Street, Millis, MA 02054",97,1098,24,85,99
+massachusetts,Milton High School,/massachusetts/milton/1124-Milton-High-School/,"25 Gile Road, Milton, MA 02186",96,1157,30,80,95
+massachusetts,Natick High School,/massachusetts/natick/1161-Natick-High-School/,"15 West Street, Natick, MA 01760",96,1178,25,82,93
+massachusetts,Newburyport High School,/massachusetts/newburyport/1203-Newburyport-High-School/,"241 High Street, Newburyport, MA 01950",94,1169,19,78,96
+massachusetts,Norfolk County Agricultural High School,/massachusetts/walpole/1228-Norfolk-County-Agricultural-High-School/,"400 Main Street, Walpole, MA 02081",100,1073,0,76,84
+massachusetts,North Andover High School,/massachusetts/north-andover/1239-North-Andover-High-School/,"430 Osgood Street, North Andover, MA 01845",96,1151,22,87,93
+massachusetts,North Attleboro High School,/massachusetts/north-attleborough/1248-North-Attleboro-High-School/,"1 Wilson West Whitty Way, North Attleborough, MA 02760",95,1163,30,83,93
+massachusetts,North Reading High School,/massachusetts/north-reading/1263-North-Reading-High-School/,"189 Park Street, North Reading, MA 01864",97,1166,32,86,91
+massachusetts,Old Colony Regional Vocational Technical,/massachusetts/rochester/1305-Old-Colony-Regional-Vocational-Technical/,"476 North Avenue, Rochester, MA 02770",97,1048,0,59,82
+massachusetts,Pathways Early College Innovation School,/massachusetts/gardner/5351-Pathways-Early-College-Innovation-School/,"444 Green Street, Gardner, MA 01440",94,1165,0,75,67
+massachusetts,Reading Memorial High School,/massachusetts/reading/1410-Reading-Memorial-High-School/,"62 Oakland Road, Reading, MA 01867",97,1159,17,87,94
+massachusetts,Shawsheen Valley Vocational Technical High School,/massachusetts/billerica/1463-Shawsheen-Valley-Vocational-Technical-High-School/,"100 Cook Street, Billerica, MA 01821",97,1036,0,53,87
+massachusetts,Silver Lake Regional High School,/massachusetts/kingston/1481-Silver-Lake-Regional-High-School/,"260 Pembroke Street, Kingston, MA 02364",96,1143,19,66,92
+massachusetts,Stoneham High School,/massachusetts/stoneham/1581-Stoneham-High-School/,"149 Franklin Street, Stoneham, MA 02180",94,1128,22,73,90
+massachusetts,Tantasqua Regional Sr High School,/massachusetts/sturbridge/1612-Tantasqua-Regional-Sr-High-School/,"319 Brookfield Road, Sturbridge, MA 01518",94,1181,49,76,86
+massachusetts,Tyngsborough High School,/massachusetts/tyngsborough/1647-Tyngsborough-High-School/,"36 Norris Road, Tyngsborough, MA 01879",98,1122,25,84,89
+massachusetts,Wilmington High School,/massachusetts/wilmington/1817-Wilmington-High-School/,"159 Church Street, Wilmington, MA 01887",98,1119,15,86,95
+massachusetts,Abington High School,/massachusetts/abington/56-Abington-High-School/,"201 Gliniewicz Way, Abington, MA 02351",94,1070,15,85,89
+massachusetts,Assabet Valley Vocational High School,/massachusetts/marlborough/120-Assabet-Valley-Vocational-High-School/,"215 Fitchburg Street, Marlborough, MA 01752",98,998,5,38,72
+massachusetts,Auburn Senior High School,/massachusetts/auburn/141-Auburn-Senior-High-School/,"99 Auburn Street, Auburn, MA 01501",94,1102,34,86,95
+massachusetts,Monument Mt Regional High School,/massachusetts/great-barrington/190-Monument-Mt-Regional-High-School/,"600 Stockbridge Road, Great Barrington, MA 01230",95,1133,20,69,96
+massachusetts,Braintree High School,/massachusetts/braintree/366-Braintree-High-School/,"128 Town Street, Braintree, MA 02184",96,1141,19,78,94
+massachusetts,Bridgewater-Raynham Regional,/massachusetts/bridgewater/380-Bridgewater-Raynham-Regional/,"415 Center Street, Bridgewater, MA 02324",91,1115,28,75,90
+massachusetts,Danvers High School,/massachusetts/danvers/515-Danvers-High-School/,"60 Cabot Road, Danvers, MA 01923",96,1115,26,75,90
+massachusetts,Dighton-Rehoboth Regional High School,/massachusetts/dighton/545-Dighton-Rehoboth-Regional-High-School/,"2700 Regional Road, Dighton, MA 02764",93,1119,21,74,87
+massachusetts,Dracut Senior High School,/massachusetts/dracut/557-Dracut-Senior-High-School/,"1540 Lakeview Avenue, Dracut, MA 01826",91,1088,15,71,90
+massachusetts,Shepherd Hill Regional High School,/massachusetts/dudley/566-Shepherd-Hill-Regional-High-School/,"68 Dudley Oxford Road, Dudley, MA 01571",94,1120,24,75,90
+massachusetts,East Longmeadow High School,/massachusetts/east-longmeadow/576-East-Longmeadow-High-School/,"180 Maple Street, East Longmeadow, MA 01028",96,1113,29,80,94
+massachusetts,Easthampton High School,/massachusetts/easthampton/584-Easthampton-High-School/,"70 Williston Avenue, Easthampton, MA 01027",93,1127,35,76,82
+massachusetts,Falmouth High School,/massachusetts/falmouth/654-Falmouth-High-School/,"874 Gifford Street, Falmouth, MA 02536",92,1129,20,74,89
+massachusetts,Frontier Regional,/massachusetts/deerfield/702-Frontier-Regional/,"113 North Main Street, Deerfield, MA 01373",91,1143,20,79,86
+massachusetts,Grafton High School,/massachusetts/grafton/735-Grafton-High-School/,"24 Providence Road, Grafton, MA 01536",93,1157,19,75,90
+massachusetts,Diman Regional Vocational Technical High School,/massachusetts/fall-river/746-Diman-Regional-Vocational-Technical-High-School/,"251 Stonehaven Road, Fall River, MA 02723",97,996,1,52,83
+massachusetts,Hopkins Academy,/massachusetts/hadley/761-Hopkins-Academy/,"131 Russell Street, Hadley, MA 01035",93,1137,46,85,97
+massachusetts,Hampshire Regional High School,/massachusetts/westhampton/776-Hampshire-Regional-High-School/,"19 Stage Road, Westhampton, MA 01027",98,1150,16,76,91
+massachusetts,Hanover High School,/massachusetts/hanover/780-Hanover-High-School/,"287 Cedar Street, Hanover, MA 02339",97,1113,26,84,92
+massachusetts,Smith Academy,/massachusetts/hatfield/790-Smith-Academy/,"34 School Street, Hatfield, MA 01038",100,1110,35,86,87
+massachusetts,Lee Middle/High School,/massachusetts/lee/889-Lee-Middle-High-School/,"300 Greylock Street, Lee, MA 01238",80,1125,35,65,79
+massachusetts,Ludlow Senior High School,/massachusetts/ludlow/960-Ludlow-Senior-High-School/,"500 Chapin Street, Ludlow, MA 01056",92,1117,15,74,94
+massachusetts,Lunenburg High School,/massachusetts/lunenburg/962-Lunenburg-High-School/,"1079 Massachusetts Avenue, Lunenburg, MA 01462",96,1109,29,82,90
+massachusetts,Minuteman Regional High School,/massachusetts/lexington/1127-Minuteman-Regional-High-School/,"758 Marrett Road, Lexington, MA 02421",92,1044,2,53,77
+massachusetts,Narragansett Regional High School,/massachusetts/templeton/1144-Narragansett-Regional-High-School/,"464 Baldwinville Road, Templeton, MA 01436",85,1111,24,71,88
+massachusetts,North Middlesex Regional High School,/massachusetts/townsend/1255-North-Middlesex-Regional-High-School/,"19 Main Street, Townsend, MA 01469",96,1111,31,82,90
+massachusetts,Norton High School,/massachusetts/norton/1290-Norton-High-School/,"66 West Main Street, Norton, MA 02766",91,1092,24,73,93
+massachusetts,Old Rochester Regional High School,/massachusetts/mattapoisett/1306-Old-Rochester-Regional-High-School/,"135 Marion Road, Mattapoisett, MA 02739",95,1133,22,82,95
+massachusetts,Pioneer Valley Regional,/massachusetts/northfield/1342-Pioneer-Valley-Regional/,"97 F Sumner Turner Drive, Northfield, MA 01360",98,1097,19,75,89
+massachusetts,Sandwich High School,/massachusetts/sandwich/1441-Sandwich-High-School/,"365 Quaker Meeting House Road, Sandwich, MA 02537",96,1125,27,85,94
+massachusetts,Seekonk High School,/massachusetts/seekonk/1461-Seekonk-High-School/,"261 Arcade Avenue, Seekonk, MA 02771",97,1119,23,77,93
+massachusetts,Mt Everett Regional,/massachusetts/sheffield/1518-Mt-Everett-Regional/,"P O Box 219, Sheffield, MA 01257",90,1158,23,72,83
+massachusetts,Joseph Case High School,/massachusetts/swansea/1608-Joseph-Case-High-School/,"70 School Street, Swansea, MA 02777",95,1109,16,72,87
+massachusetts,Tri County Regional Vocational Technical,/massachusetts/franklin/1639-Tri-County-Regional-Vocational-Technical/,"147 Pond Street, Franklin, MA 02038",97,1059,5,48,91
+massachusetts,Upper Cape Cod Vocational Technical,/massachusetts/bourne/1649-Upper-Cape-Cod-Vocational-Technical/,"220 Sandwich Road, Bourne, MA 02532",97,1067,0,49,78
+massachusetts,Wachusett Regional High School,/massachusetts/holden/1664-Wachusett-Regional-High-School/,"1401 Main Street, Holden, MA 01520",96,1156,18,85,91
+massachusetts,Wakefield Memorial High School,/massachusetts/wakefield/1673-Wakefield-Memorial-High-School/,"60 Farm Street, Wakefield, MA 01880",95,1123,24,82,92
+massachusetts,Quaboag Regional High School,/massachusetts/west-brookfield/1706-Quaboag-Regional-High-School/,"284 Old West Brookfield Road, West Brookfield, MA 01585",87,1093,22,45,94
+massachusetts,West Boylston Junior/Senior High School,/massachusetts/west-boylston/1731-West-Boylston-Junior-Senior-High-School/,"125 Crescent Street, West Boylston, MA 01583",95,1102,22,87,88
+massachusetts,West Bridgewater Middle-Senior High School,/massachusetts/west-bridgewater/1734-West-Bridgewater-Middle-Senior-High-School/,"155 West Center Street, West Bridgewater, MA 02379",99,1090,24,79,83
+massachusetts,Whitman Hanson Regional,/massachusetts/whitman/1807-Whitman-Hanson-Regional/,"600 Franklin Street, Whitman, MA 02382",96,1081,31,70,85
+massachusetts,Whittier Regional Vocational,/massachusetts/haverhill/1808-Whittier-Regional-Vocational/,"115 Amesbury Line Road, Haverhill, MA 01830",99,1026,0,54,79
+massachusetts,Worcester Technical High School,/massachusetts/worcester/1892-Worcester-Technical-High-School/,"1 Skyline Drive, Worcester, MA 01605",99,972,14,56,75
+massachusetts,Sutton High School,/massachusetts/sutton/2601-Sutton-High-School/,"409 Boston Road, Sutton, MA 01590",94,1121,26,84,88
+massachusetts,Pembroke High School,/massachusetts/pembroke/3211-Pembroke-High-School/,"80 Learning Lane, Pembroke, MA 02359",91,1135,26,75,92
+massachusetts,Monomoy Regional High School,/massachusetts/harwich/6270-Monomoy-Regional-High-School/,"75 Oak Street, Harwich, MA 02645",92,1087,19,69,85
+massachusetts,Oakmont Regional High School,/massachusetts/ashburnham/110-Oakmont-Regional-High-School/,"9 Oakmont Drive, Ashburnham, MA 01430",94,1106,14,77,93
+massachusetts,Ayer Shirley Regional High School,/massachusetts/ayer/152-Ayer-Shirley-Regional-High-School/,"141 Washington Street, Ayer, MA 01432",92,1074,7,62,80
+massachusetts,Barnstable High School,/massachusetts/barnstable/153-Barnstable-High-School/,"744 West Main Street, Barnstable, MA 02601",87,1122,32,70,88
+massachusetts,Billerica Memorial High School,/massachusetts/billerica/208-Billerica-Memorial-High-School/,"35 River Street, Billerica, MA 01821",86,1102,19,82,90
+massachusetts,Blackstone Millville Rhs,/massachusetts/blackstone/219-Blackstone-Millville-Rhs/,"175 Lincoln Street, Blackstone, MA 01504",92,1080,20,66,87
+massachusetts,Blue Hills Regional Vocational Technical,/massachusetts/canton/223-Blue-Hills-Regional-Vocational-Technical/,"800 Randolph Street, Canton, MA 02021",96,1014,2,47,75
+massachusetts,Bristol-Plymouth Vocational Technical,/massachusetts/taunton/389-Bristol-Plymouth-Vocational-Technical/,"207 Hart Street, Taunton, MA 02780",98,1033,8,48,82
+massachusetts,Carver Middle/High School,/massachusetts/carver/5337-Carver-Middle-High-School/,"60 South Meadow Road, Carver, MA 02330",92,1122,25,72,88
+massachusetts,Cape Cod Region Vocational Technical,/massachusetts/harwich/452-Cape-Cod-Region-Vocational-Technical/,"351 Pleasant Lake Avenue, Harwich, MA 02645",89,998,4,39,88
+massachusetts,Wahconah Regional High School,/massachusetts/dalton/462-Wahconah-Regional-High-School/,"150 Old Windsor Road, Dalton, MA 01226",91,1107,21,88,84
+massachusetts,Clinton Senior High School,/massachusetts/clinton/503-Clinton-Senior-High-School/,"200 West Boylston Street, Clinton, MA 01510",96,1037,14,56,84
+massachusetts,Dartmouth High School,/massachusetts/dartmouth/523-Dartmouth-High-School/,"555 Bakerville Road, Dartmouth, MA 02748",90,1101,36,85,90
+massachusetts,Douglas High School,/massachusetts/douglas/549-Douglas-High-School/,"33 Davis Street, Douglas, MA 01516",90,1082,23,74,96
+massachusetts,East Bridgewater High School,/massachusetts/east-bridgewater/573-East-Bridgewater-High-School/,"143 Plymouth Street, East Bridgewater, MA 02333",96,1062,35,78,91
+massachusetts,Fairhaven High School,/massachusetts/fairhaven/611-Fairhaven-High-School/,"12 Huttleston Avenue, Fairhaven, MA 02719",87,1096,17,71,89
+massachusetts,Framingham High School,/massachusetts/framingham/687-Framingham-High-School/,"115 A Street, Framingham, MA 01701",84,1137,0,73,94
+massachusetts,Holbrook Jr Sr High School,/massachusetts/holbrook/819-Holbrook-Jr-Sr-High-School/,"245 South Franklin Street, Holbrook, MA 02343",86,1023,13,66,91
+massachusetts,Hudson High School,/massachusetts/hudson/855-Hudson-High-School/,"69 Brigham Street, Hudson, MA 01749",80,1107,24,79,94
+massachusetts,Marthas Vineyard Regional High School,/massachusetts/oak-bluffs/1040-Marthas-Vineyard-Regional-High-School/,"100 Edgartown Vineyard Haven Road, Oak Bluffs, MA 02557",92,1121,19,60,83
+massachusetts,Medford Vocational Technical High School,/massachusetts/medford/1064-Medford-Vocational-Technical-High-School/,"489 Winthrop Street, Medford, MA 02155",97,908,0,28,63
+massachusetts,Medford High School,/massachusetts/medford/1066-Medford-High-School/,"489 Winthrop Street, Medford, MA 02155",90,1097,14,81,91
+massachusetts,Middleborough High School,/massachusetts/middleborough/1103-Middleborough-High-School/,"71 East Grove Street, Middleborough, MA 02346",91,1098,17,70,86
+massachusetts,Mohawk Trail Regional High School,/massachusetts/shelburne-falls/1131-Mohawk-Trail-Regional-High-School/,"26 Ashfield Road, Shelburne Falls, MA 01370",81,1168,18,73,86
+massachusetts,Montachusett Regional Vocational Technical,/massachusetts/westminster/1136-Montachusett-Regional-Vocational-Technical/,"1050 Westminster Street, Westminster, MA 01473",98,1042,10,52,84
+massachusetts,Nashoba Valley Technical High School,/massachusetts/westford/1154-Nashoba-Valley-Technical-High-School/,"100 Littleton Road, Westford, MA 01886",99,1022,11,46,82
+massachusetts,Northbridge High School,/massachusetts/northbridge/1282-Northbridge-High-School/,"427 Linwood Avenue, Northbridge, MA 01588",94,1045,25,69,86
+massachusetts,Charles Mccann Vocational Technical,/massachusetts/north-adams/1285-Charles-Mccann-Vocational-Technical/,"70 Hodges Cross Road, North Adams, MA 01247",91,1032,4,51,75
+massachusetts,Northeast Metro Regional Vocational,/massachusetts/wakefield/1286-Northeast-Metro-Regional-Vocational/,"100 Hemlock Road, Wakefield, MA 01880",99,953,0,39,78
+massachusetts,Norwood High School,/massachusetts/norwood/1302-Norwood-High-School/,"245 Nichols Street, Norwood, MA 02062",89,1102,23,75,90
+massachusetts,Plymouth South High School,/massachusetts/plymouth/1365-Plymouth-South-High-School/,"490 Long Pond Road, Plymouth, MA 02360",97,1050,21,63,89
+massachusetts,Quincy High School,/massachusetts/quincy/1392-Quincy-High-School/,"100 Coddington Street, Quincy, MA 02169",92,1078,12,61,89
+massachusetts,Rockport High School,/massachusetts/rockport/1428-Rockport-High-School/,"24 Jerdens Lane, Rockport, MA 01966",95,1132,21,82,89
+massachusetts,Somerville High School,/massachusetts/somerville/1496-Somerville-High-School/,"81 Highland Avenue, Somerville, MA 02143",87,1045,20,57,89
+massachusetts,South Hadley High School,/massachusetts/south-hadley/1503-South-Hadley-High-School/,"153 Newton Street, South Hadley, MA 01075",91,1095,21,70,90
+massachusetts,So Shore Vocational Technical High School,/massachusetts/hanover/1505-So-Shore-Vocational-Technical-High-School/,"476 Webster Street, Hanover, MA 02339",93,987,0,45,86
+massachusetts,Tantasqua Regional Vocational,/massachusetts/sturbridge/1613-Tantasqua-Regional-Vocational/,"319 Brookfield Road, Sturbridge, MA 01518",96,1053,5,35,69
+massachusetts,Tewksbury Memorial High School,/massachusetts/tewksbury/1635-Tewksbury-Memorial-High-School/,"320 Pleasant Street, Tewksbury, MA 01876",95,1104,21,84,90
+massachusetts,Triton Regional High School,/massachusetts/newbury/1644-Triton-Regional-High-School/,"112 Elm Street, Newbury, MA 01922",87,1134,18,76,96
+massachusetts,Uxbridge High School,/massachusetts/uxbridge/1652-Uxbridge-High-School/,"300 Quaker Highway, Uxbridge, MA 01569",91,1081,21,71,86
+massachusetts,Watertown High School,/massachusetts/watertown/1711-Watertown-High-School/,"50 Columbia Street, Watertown, MA 02472",93,1114,17,83,91
+massachusetts,Winthrop Sr High School,/massachusetts/winthrop/1832-Winthrop-Sr-High-School/,"400 Main Street, Winthrop, MA 02152",82,1066,33,80,84
+massachusetts,Woburn High School,/massachusetts/woburn/1844-Woburn-High-School/,"88 Montvale Avenue, Woburn, MA 01801",92,1106,11,77,84
+massachusetts,Quabbin Regional High School,/massachusetts/barre/1-Quabbin-Regional-High-School/,"800 South Street, Barre, MA 01005",85,1101,14,72,91
+massachusetts,Hoosac Valley High School,/massachusetts/cheshire/72-Hoosac-Valley-High-School/,"125 Savoy Road, Cheshire, MA 01225",79,1052,27,70,82
+massachusetts,Attleboro High School,/massachusetts/attleboro/130-Attleboro-High-School/,"100 Rathbun Willard Drive, Attleboro, MA 02703",93,1101,18,71,88
+massachusetts,Beverly High School,/massachusetts/beverly/198-Beverly-High-School/,"100 Sohier Road, Beverly, MA 01915",90,1121,6,73,87
+massachusetts,Bourne High School,/massachusetts/bourne/358-Bourne-High-School/,"75 Waterhouse Road, Bourne, MA 02532",92,1076,21,70,71
+massachusetts,Dennis-Yarmouth Regional High School,/massachusetts/yarmouth/536-Dennis-Yarmouth-Regional-High-School/,"210 Station Avenue, Yarmouth, MA 02664",80,1067,15,67,81
+massachusetts,Franklin County Technical,/massachusetts/montague/698-Franklin-County-Technical/,"82 Industrial Boulevard, Montague, MA 01376",88,1081,7,28,68
+massachusetts,Gardner High School,/massachusetts/gardner/704-Gardner-High-School/,"200 Catherine Street, Gardner, MA 01440",92,1000,23,68,86
+massachusetts,Gloucester High School,/massachusetts/gloucester/727-Gloucester-High-School/,"32 Leslie O Johnson Road, Gloucester, MA 01930",90,1078,12,63,85
+massachusetts,Greater Lowell Technical High School,/massachusetts/tyngsborough/745-Greater-Lowell-Technical-High-School/,"250 Pawtucket Boulevard, Tyngsborough, MA 01879",96,982,0,39,72
+massachusetts,Greenfield High School,/massachusetts/greenfield/752-Greenfield-High-School/,"21 Barr Avenue, Greenfield, MA 01301",82,1155,20,50,68
+massachusetts,Leicester High School,/massachusetts/leicester/891-Leicester-High-School/,"174 Paxton Street, Leicester, MA 01524",91,1080,21,74,84
+massachusetts,Leominster Senior High School,/massachusetts/leominster/900-Leominster-Senior-High-School/,"122 Granite Street, Leominster, MA 01453",89,1083,9,69,84
+massachusetts,Maynard High School,/massachusetts/maynard/1051-Maynard-High-School/,"1 Tiger Drive, Maynard, MA 01754",91,1088,23,76,91
+massachusetts,Milford High School,/massachusetts/milford/1111-Milford-High-School/,"31 West Fountain Street, Milford, MA 01757",87,1095,29,75,89
+massachusetts,Millbury Junior/Senior High School,/massachusetts/millbury/1116-Millbury-Junior-Senior-High-School/,"12 Martin Street, Millbury, MA 01527",94,1068,16,62,81
+massachusetts,Nantucket High School,/massachusetts/nantucket/1141-Nantucket-High-School/,"10 Surfside Road, Nantucket, MA 02554",85,1074,23,67,92
+massachusetts,Gr New Bedford Vocational Technical,/massachusetts/new-bedford/1198-Gr-New-Bedford-Vocational-Technical/,"1121 Ashley Boulevard, New Bedford, MA 02745",89,1000,0,54,80
+massachusetts,Smith Vocational And Agricultural High School,/massachusetts/northampton/1272-Smith-Vocational-And-Agricultural-High-School/,"80 Locust Street, Northampton, MA 01060",91,944,0,23,57
+massachusetts,Oxford High School,/massachusetts/oxford/1315-Oxford-High-School/,"100 Carbuncle Drive, Oxford, MA 01540",94,1059,26,61,82
+massachusetts,Peabody Veterans Memorial High School,/massachusetts/peabody/1328-Peabody-Veterans-Memorial-High-School/,"485 Lowell Street, Peabody, MA 01960",87,1081,23,70,89
+massachusetts,Pittsfield High School,/massachusetts/pittsfield/1352-Pittsfield-High-School/,"300 East Street, Pittsfield, MA 01201",80,1120,27,58,84
+massachusetts,Taconic High School,/massachusetts/pittsfield/1356-Taconic-High-School/,"96 Valentine Road, Pittsfield, MA 01201",88,1100,22,62,77
+massachusetts,Plymouth North High School,/massachusetts/plymouth/1364-Plymouth-North-High-School/,"41 Obery Street, Plymouth, MA 02360",90,1088,16,65,90
+massachusetts,Ralph C Mahar Regional,/massachusetts/orange/1397-Ralph-C-Mahar-Regional/,"507 South Main Street, Orange, MA 01364",82,1086,13,59,79
+massachusetts,Southeastern Regional Vocational Technical,/massachusetts/easton/1515-Southeastern-Regional-Vocational-Technical/,"250 Foundry Street, Easton, MA 02375",97,937,9,45,62
+massachusetts,Waltham Sr High School,/massachusetts/waltham/1694-Waltham-Sr-High-School/,"617 Lexington Street, Waltham, MA 02452",84,1049,16,70,88
+massachusetts,Ware Junior/Senior High School,/massachusetts/ware/1696-Ware-Junior-Senior-High-School/,"237 West Street, Ware, MA 01082",82,1083,6,60,88
+massachusetts,Wareham Senior High School,/massachusetts/wareham/1703-Wareham-Senior-High-School/,"7 Viking Drive, Wareham, MA 02571",82,1058,16,60,81
+massachusetts,Westfield High School,/massachusetts/westfield/1757-Westfield-High-School/,"177 Montgomery Road, Westfield, MA 01085",85,1116,37,74,87
+massachusetts,Weymouth High School,/massachusetts/weymouth/1792-Weymouth-High-School/,"1 Wildcat Way, Weymouth, MA 02190",88,1082,16,59,88
+massachusetts,Avon Middle High School,/massachusetts/avon/2572-Avon-Middle-High-School/,"287 West Main Street, Avon, MA 02322",92,1050,17,70,93
+massachusetts,David Prouty High School,/massachusetts/spencer/8-David-Prouty-High-School/,"302 Main Street, Spencer, MA 01562",84,1060,43,65,85
+massachusetts,Jeremiah E Burke High School,/massachusetts/boston/273-Jeremiah-E-Burke-High-School/,"60 Washington Street, Boston, MA 02121",76,846,17,39,58
+massachusetts,Fenway High School,/massachusetts/boston/338-Fenway-High-School/,"67 Alleghany Street, Boston, MA 02120",90,910,0,70,81
+massachusetts,Harbor School,/massachusetts/boston/343-Harbor-School/,"18 Croftland Avenue, Boston, MA 02124",70,884,0,50,Not available
+massachusetts,Boston Arts Academy,/massachusetts/boston/348-Boston-Arts-Academy/,"174 Ipswich Street, Boston, MA 02215",90,958,3,65,89
+massachusetts,Brockton High School,/massachusetts/brockton/392-Brockton-High-School/,"470 Forest Avenue, Brockton, MA 02301",87,985,7,65,78
+massachusetts,Chicopee High School,/massachusetts/chicopee/492-Chicopee-High-School/,"820 Front Street, Chicopee, MA 01020",79,1048,34,68,83
+massachusetts,Everett High School,/massachusetts/everett/606-Everett-High-School/,"100 Elm Street, Everett, MA 02149",79,987,11,52,83
+massachusetts,B M C Durfee High School,/massachusetts/fall-river/620-B-M-C-Durfee-High-School/,"360 Elsbree Street, Fall River, MA 02720",80,1070,14,55,74
+massachusetts,Turners Fall High School,/massachusetts/montague/719-Turners-Fall-High-School/,"222 Turnpike Road, Montague, MA 01351",87,1089,19,51,90
+massachusetts,Haverhill High School,/massachusetts/haverhill/802-Haverhill-High-School/,"137 Monument Street, Haverhill, MA 01832",83,1082,16,62,75
+massachusetts,Lowell High School,/massachusetts/lowell/949-Lowell-High-School/,"50 Father Morissette Boulevard, Lowell, MA 01852",85,1052,17,69,87
+massachusetts,Lynn Vocational Technical Institute,/massachusetts/lynn/993-Lynn-Vocational-Technical-Institute/,"80 Neptune Boulevard, Lynn, MA 01902",86,955,3,41,64
+massachusetts,Malden High School,/massachusetts/malden/1007-Malden-High-School/,"77 Salem Street, Malden, MA 02148",85,1050,27,67,84
+massachusetts,Marlborough High School,/massachusetts/marlborough/1030-Marlborough-High-School/,"431 Bolton Street, Marlborough, MA 01752",86,1071,28,65,89
+massachusetts,North Brookfield High School,/massachusetts/north-brookfield/1252-North-Brookfield-High-School/,"10 High School Drive, North Brookfield, MA 01535",90,1081,14,42,89
+massachusetts,Palmer High School,/massachusetts/palmer/1317-Palmer-High-School/,"4105 Main Street, Palmer, MA 01069",86,1083,20,72,89
+massachusetts,Pathfinder Vocational Technical,/massachusetts/palmer/1320-Pathfinder-Vocational-Technical/,"240 Sykes Street, Palmer, MA 01080",93,995,0,27,66
+massachusetts,Randolph High School,/massachusetts/randolph/1402-Randolph-High-School/,"70 Memorial Parkway, Randolph, MA 02368",79,980,15,56,79
+massachusetts,Revere High School,/massachusetts/revere/1416-Revere-High-School/,"101 School Street, Revere, MA 02151",88,993,16,64,85
+massachusetts,Salem High School,/massachusetts/salem/1436-Salem-High-School/,"77 Willson Street, Salem, MA 01970",87,1045,0,65,81
+massachusetts,Saugus High School,/massachusetts/saugus/1449-Saugus-High-School/,"1 Pearce Memorial Drive, Saugus, MA 01906",89,1033,24,76,91
+massachusetts,Joseph P Keefe Technical High School,/massachusetts/framingham/1522-Joseph-P-Keefe-Technical-High-School/,"750 Winter Street, Framingham, MA 01702",92,947,0,36,62
+massachusetts,Putnam Vocational Technical High School,/massachusetts/springfield/1562-Putnam-Vocational-Technical-High-School/,"1300 State Street, Springfield, MA 01109",95,869,8,49,70
+massachusetts,Taunton High School,/massachusetts/taunton/1627-Taunton-High-School/,"50 Williams Street, Taunton, MA 02780",92,1040,16,73,85
+massachusetts,Westfield Vocational Tech High School,/massachusetts/westfield/1758-Westfield-Vocational-Tech-High-School/,"33 Smith Avenue, Westfield, MA 01085",93,945,0,39,75
+massachusetts,Doherty Memorial High School,/massachusetts/worcester/1858-Doherty-Memorial-High-School/,"299 Highland Street, Worcester, MA 01602",88,1008,19,69,84
+massachusetts,South High Community,/massachusetts/worcester/1883-South-High-Community/,"170 Apricot Street, Worcester, MA 01603",74,952,26,55,73
+massachusetts,Lawrence High School,/massachusetts/lawrence/6327-Lawrence-High-School/,"70-71 North Parish Road, Lawrence, MA 01843",88,894,0,26,Not available
+massachusetts,Urban Science Academy,/massachusetts/boston/3186-Urban-Science-Academy/,"1205 VFW Parkway, Boston, MA 02132",61,891,19,49,73
+massachusetts,The Springfield Renaissance School,/massachusetts/springfield/3250-The-Springfield-Renaissance-School/,"1170 Carew Street, Springfield, MA 01104",94,951,10,72,77
+massachusetts,Massachusetts Virtual Academy,/massachusetts/greenfield/5290-Massachusetts-Virtual-Academy/,"278 Main Street, Suite 205, Greenfield, MA 01301",31,1122,3,37,71
+massachusetts,Murdock High School,/massachusetts/winchendon/6225-Murdock-High-School/,"3 Memorial Drive, Winchendon, MA 01475",80,1083,20,46,81
+massachusetts,Tec Connections Academy Commonwealth Virtual School,/massachusetts/walpole/6282-Tec-Connections-Academy-Commonwealth-Virtual-School/,"141 Mansion Drive  Suite 300  East Walpole, MA 02032 , Walpole, MA 02032",32,1096,8,47,86
+massachusetts,Athol High School,/massachusetts/athol/121-Athol-High-School/,"2363 Main Street, Athol, MA 01331",75,1001,23,64,85
+massachusetts,Charlestown High School,/massachusetts/boston/238-Charlestown-High-School/,"240 Medford Street, Boston, MA 02129",55,877,13,53,77
+massachusetts,Snowden Int'L High School,/massachusetts/boston/240-Snowden-IntL-High-School/,"150 Newbury Street, Boston, MA 02116",80,921,5,77,82
+massachusetts,Dearborn Middle School,/massachusetts/boston/244-Dearborn-Middle-School/,"60 Washington Street, Boston, MA 02121",78,797,0,Not available,Not available
+massachusetts,East Boston High School,/massachusetts/boston/248-East-Boston-High-School/,"86 White Street, Boston, MA 02128",74,928,18,50,71
+massachusetts,The English High School,/massachusetts/boston/319-The-English-High-School/,"144 McBride Street, Boston, MA 02130",60,855,8,45,69
+massachusetts,Holyoke High School,/massachusetts/holyoke/830-Holyoke-High-School/,"500 Beech Street, Holyoke, MA 01040",75,1027,15,59,68
+massachusetts,Classical High School,/massachusetts/lynn/974-Classical-High-School/,"235 O'Callaghan Way, Lynn, MA 01905",76,1004,9,55,80
+massachusetts,Lynn English High School,/massachusetts/lynn/983-Lynn-English-High-School/,"50 Goodridge Street, Lynn, MA 01902",71,983,8,52,80
+massachusetts,Drury High School,/massachusetts/north-adams/1229-Drury-High-School/,"1130 Church Street, North Adams, MA 01247",76,1031,35,60,79
+massachusetts,High School Of Commerce,/massachusetts/springfield/1540-High-School-Of-Commerce/,"415 State Street, Springfield, MA 01105",61,844,0,45,53
+massachusetts,Bartlett High School,/massachusetts/webster/1718-Bartlett-High-School/,"52 Lake Parkway, Webster, MA 01570",73,1057,38,67,89
+massachusetts,Burncoat Senior High School,/massachusetts/worcester/1850-Burncoat-Senior-High-School/,"179 Burncoat Street, Worcester, MA 01606",84,953,17,49,72
+massachusetts,Boston Community Leadership Academy,/massachusetts/boston/2690-Boston-Community-Leadership-Academy/,"655 Metropolitan Avenue, Boston, MA 02136",81,923,30,71,80
+massachusetts,Boston International  High School,/massachusetts/boston/2997-Boston-International--High-School/,"100 Maxwell Street, Boston, MA 02124",43,847,7,55,70
+massachusetts,Excel High School,/massachusetts/boston/2998-Excel-High-School/,"95 G Street, Boston, MA 02127",70,916,12,58,75
+massachusetts,Lyon Upper 9-12,/massachusetts/boston/5328-Lyon-Upper-9-12/,"95 Beechcroft Street, Boston, MA 02135",81,927,10,77,74
+massachusetts,Techboston Academy,/massachusetts/boston/5452-Techboston-Academy/,"9 Peacevale Road, Boston, MA 02124",88,890,10,59,72
+massachusetts,Brighton High School,/massachusetts/boston/234-Brighton-High-School/,"25 Warren Street, Boston, MA 02135",59,870,10,45,72
+massachusetts,Madison Park High,/massachusetts/boston/289-Madison-Park-High/,"75 Malcolm X Boulevard, Boston, MA 02120",56,830,0,34,69
+massachusetts,Egleston Community High School,/massachusetts/boston/341-Egleston-Community-High-School/,"3134 Washington Street, Boston, MA 02119",54,878,0,20,75
+massachusetts,Wm J Dean Vocational Technical High School,/massachusetts/holyoke/837-Wm-J-Dean-Vocational-Technical-High-School/,"1045 Main Street, Holyoke, MA 01040",59,1083,0,28,35
+massachusetts,New Bedford High School,/massachusetts/new-bedford/1189-New-Bedford-High-School/,"230 Hathaway Boulevard, New Bedford, MA 02740",65,984,17,53,79
+massachusetts,North High School,/massachusetts/worcester/1879-North-High-School/,"140 Harrington Way, Worcester, MA 01604",83,887,16,53,72
+massachusetts,Boston Adult Academy,/massachusetts/boston/2617-Boston-Adult-Academy/,"20 Church Street, Boston, MA 02116",22,780,0,11,61
+massachusetts,Brockton Champion High School,/massachusetts/brockton/5167-Brockton-Champion-High-School/,"175 Warren Avenue, Brockton, MA 02301",31,1133,0,62,44
+massachusetts,Dorchester Academy,/massachusetts/boston/5330-Dorchester-Academy/,"11 Charles Street, Boston, MA 02122",Not available,1162,0,36,62
+massachusetts,Phoenix Academy Lawrence,/massachusetts/lawrence/5426-Phoenix-Academy-Lawrence/,"15 Union Street, Lawrence, MA 01840",25,828,7,45,40
+massachusetts,Brook Farm/Media High,/massachusetts/boston/5451-Brook-Farm-Media-High/,"1205 VFW Parkway, Boston, MA 02132",63,861,12,52,71
+massachusetts,Ib School Of Quabbin,/massachusetts/barre/6237-Ib-School-Of-Quabbin/,"800 South Street, Barre, MA 01005",Not available,1664,0,91,Not available
+vermont,Essex Community Education Center Uhsd #46,/vermont/essex/6-Essex-Community-Education-Center-Uhsd-46/,"2 Educational Drive, Essex, VT 05452",90,1168,26,68,87
+vermont,Champlain Valley Uhsd #15,/vermont/hinesburg/73-Champlain-Valley-Uhsd-15/,"396 C V U Road, Hinesburg, VT 05461",96,1177,23,79,83
+vermont,Mt. Mansfield Usd #17,/vermont/jericho/184-Mt.-Mansfield-Usd-17/,"211 Browns Trace Road, Jericho, VT 05465",93,1204,25,67,83
+vermont,South Burlington High School,/vermont/south-burlington/245-South-Burlington-High-School/,"550 Dorset Street, South Burlington, VT 05403",93,1185,31,80,91
+vermont,Woodstock Senior Uhsd #4,/vermont/woodstock/332-Woodstock-Senior-Uhsd-4/,"496 West Woodstock Road, Woodstock, VT 05091",90,1128,25,69,81
+vermont,Craftsbury Schools,/vermont/craftsbury/86-Craftsbury-Schools/,"1422 North Craftsbury Road, Craftsbury, VT 05827",100,1086,12,77,Not available
+vermont,Middlebury Senior Uhsd #3,/vermont/middlebury/162-Middlebury-Senior-Uhsd-3/,"73 Charles Avenue, Middlebury, VT 05753",85,1169,17,61,78
+vermont,Spaulding Uhsd #41,/vermont/barre/3-Spaulding-Uhsd-41/,"155 Ayers Street, Barre, VT 05641",85,1081,23,47,78
+vermont,Lake Region Uhsd #24,/vermont/barton/147-Lake-Region-Uhsd-24/,"317 Lake Region Road, Barton, VT 05860",74,1094,11,53,86
+vermont,Bellows Falls Uhsd #27,/vermont/westminster/290-Bellows-Falls-Uhsd-27/,"406 High School Rd, Westminster, VT 05158",71,1118,18,49,70
+vermont,Vergennes Uhsd #5,/vermont/vergennes/295-Vergennes-Uhsd-5/,"50 Monkton Road, Vergennes, VT 05491",95,1054,6,57,72
+vermont,Harwood Uhsd #19,/vermont/moretown/127-Harwood-Uhsd-19/,"458 Vermont 100, Moretown, VT 05660",90,1155,15,60,80
+vermont,Rutland Senior High School,/vermont/rutland/229-Rutland-Senior-High-School/,"22 Stratton Road, Rutland, VT 05701",91,1084,18,61,76
+vermont,Black River Usd #39,/vermont/ludlow/285-Black-River-Usd-39/,"43 Main Street, Ludlow, VT 05149",100,980,10,52,88
+vermont,Green Mountain Uhsd #35,/vermont/chester/293-Green-Mountain-Uhsd-35/,"716 Vermont 103, Chester, VT 05143",87,1117,9,48,86
+vermont,Brattleboro Senior Uhsd #6,/vermont/brattleboro/44-Brattleboro-Senior-Uhsd-6/,"131 Fairground Road, Brattleboro, VT 05301",83,1080,3,60,80
+vermont,Burlington Senior High School,/vermont/burlington/56-Burlington-Senior-High-School/,"52 Institute Road, Burlington, VT 05408",79,1141,14,58,84
+vermont,Danville School,/vermont/danville/87-Danville-School/,"143 Peacham Road, Danville, VT 05828",100,1083,1,Not available,81
+vermont,U-32 High School (Uhsd #32),/vermont/montpelier/283-U-32-High-School-Uhsd-32/,"930 Gallison Hill Road, Montpelier, VT 05602",87,1167,15,58,90
+vermont,Essex Community Education Center Uhsd #46,/vermont/essex/6-Essex-Community-Education-Center-Uhsd-46/,"2 Educational Drive, Essex, VT 05452",90,1168,26,68,87
+vermont,Champlain Valley Uhsd #15,/vermont/hinesburg/73-Champlain-Valley-Uhsd-15/,"396 C V U Road, Hinesburg, VT 05461",96,1177,23,79,83
+vermont,Mt. Mansfield Usd #17,/vermont/jericho/184-Mt.-Mansfield-Usd-17/,"211 Browns Trace Road, Jericho, VT 05465",93,1204,25,67,83
+vermont,South Burlington High School,/vermont/south-burlington/245-South-Burlington-High-School/,"550 Dorset Street, South Burlington, VT 05403",93,1185,31,80,91
+vermont,Woodstock Senior Uhsd #4,/vermont/woodstock/332-Woodstock-Senior-Uhsd-4/,"496 West Woodstock Road, Woodstock, VT 05091",90,1128,25,69,81
+vermont,Craftsbury Schools,/vermont/craftsbury/86-Craftsbury-Schools/,"1422 North Craftsbury Road, Craftsbury, VT 05827",100,1086,12,77,Not available
+vermont,Middlebury Senior Uhsd #3,/vermont/middlebury/162-Middlebury-Senior-Uhsd-3/,"73 Charles Avenue, Middlebury, VT 05753",85,1169,17,61,78
+vermont,Spaulding Uhsd #41,/vermont/barre/3-Spaulding-Uhsd-41/,"155 Ayers Street, Barre, VT 05641",85,1081,23,47,78
+vermont,Lake Region Uhsd #24,/vermont/barton/147-Lake-Region-Uhsd-24/,"317 Lake Region Road, Barton, VT 05860",74,1094,11,53,86
+vermont,Bellows Falls Uhsd #27,/vermont/westminster/290-Bellows-Falls-Uhsd-27/,"406 High School Rd, Westminster, VT 05158",71,1118,18,49,70
+vermont,Vergennes Uhsd #5,/vermont/vergennes/295-Vergennes-Uhsd-5/,"50 Monkton Road, Vergennes, VT 05491",95,1054,6,57,72
+vermont,Harwood Uhsd #19,/vermont/moretown/127-Harwood-Uhsd-19/,"458 Vermont 100, Moretown, VT 05660",90,1155,15,60,80
+vermont,Rutland Senior High School,/vermont/rutland/229-Rutland-Senior-High-School/,"22 Stratton Road, Rutland, VT 05701",91,1084,18,61,76
+vermont,Black River Usd #39,/vermont/ludlow/285-Black-River-Usd-39/,"43 Main Street, Ludlow, VT 05149",100,980,10,52,88
+vermont,Green Mountain Uhsd #35,/vermont/chester/293-Green-Mountain-Uhsd-35/,"716 Vermont 103, Chester, VT 05143",87,1117,9,48,86
+vermont,Brattleboro Senior Uhsd #6,/vermont/brattleboro/44-Brattleboro-Senior-Uhsd-6/,"131 Fairground Road, Brattleboro, VT 05301",83,1080,3,60,80
+vermont,Burlington Senior High School,/vermont/burlington/56-Burlington-Senior-High-School/,"52 Institute Road, Burlington, VT 05408",79,1141,14,58,84
+vermont,Danville School,/vermont/danville/87-Danville-School/,"143 Peacham Road, Danville, VT 05828",100,1083,1,Not available,81
+vermont,U-32 High School (Uhsd #32),/vermont/montpelier/283-U-32-High-School-Uhsd-32/,"930 Gallison Hill Road, Montpelier, VT 05602",87,1167,15,58,90
+vermont,Hartford High School,/vermont/hartford/133-Hartford-High-School/,"37 Highland Avenue, Hartford, VT 05001",87,1100,0,54,79
+vermont,Leland & Gray Uhsd #34,/vermont/townshend/151-Leland--Gray-Uhsd-34/,"2042 VT Route 30, Townshend, VT 05353",84,1069,9,60,80
+vermont,Northfield Middle/High School,/vermont/northfield/195-Northfield-Middle-High-School/,"37 Cross Street, Northfield, VT 05663",85,1070,28,55,86
+vermont,Poultney High School,/vermont/poultney/208-Poultney-High-School/,"154 East Main Street, Poultney, VT 05764",79,993,6,57,85
+vermont,Twinfield Usd #33,/vermont/plainfield/279-Twinfield-Usd-33/,"106 Nasmith Brook Road, Plainfield, VT 05667",96,1008,3,64,Not available
+vermont,Bellows Free Academy Uhsd #48,/vermont/saint-albans-city/584-Bellows-Free-Academy-Uhsd-48/,"71 South Main Street, Saint Albans City, VT 05478",88,1087,19,59,80
+vermont,Missisquoi Valley Uhsd #7,/vermont/highgate/169-Missisquoi-Valley-Uhsd-7/,"100 Thunderbird Drive, Highgate, VT 05488",81,1041,25,50,84
+vermont,South Royalton Elementary/High School,/vermont/royalton/226-South-Royalton-Elementary-High-School/,"223 South Windsor Street, Royalton, VT 05068",88,1104,15,Not available,79
+vermont,Mount Abraham Uhsd #28,/vermont/bristol/282-Mount-Abraham-Uhsd-28/,"220 Airport Drive, Bristol, VT 05443",94,1059,9,61,78
+vermont,North Country Senior Uhsd #22,/vermont/newport/337-North-Country-Senior-Uhsd-22/,"209 Veterans Avenue, Newport, VT 05855",85,1070,11,49,78
+vermont,Bfa High School - Fairfax,/vermont/fairfax/583-Bfa-High-School---Fairfax/,"75 Hunt Street, Fairfax, VT 05454",92,1145,11,65,74
+vermont,Windsor  School,/vermont/windsor/1200-Windsor--School/,"127 State Street, Windsor, VT 05089",68,1091,0,54,80
+vermont,Arlington Memorial,/vermont/arlington/15-Arlington-Memorial/,"529 East Arlington Road, Arlington, VT 05250",82,1039,19,57,Not available
+vermont,Randolph Uhsd #2,/vermont/randolph/38-Randolph-Uhsd-2/,"15 Forest Street, Randolph, VT 05060",94,1108,11,52,79
+vermont,Fair Haven Uhsd #16,/vermont/fair-haven/107-Fair-Haven-Uhsd-16/,"33 Mechanic Street, Fair Haven, VT 05743",88,1100,14,62,83
+vermont,Lamoille Uhsd #18,/vermont/hyde-park/149-Lamoille-Uhsd-18/,"736 Vermont 15, Hyde Park, VT 05655",88,1027,13,42,83
+vermont,Springfield High School,/vermont/springfield/251-Springfield-High-School/,"303 South Street, Springfield, VT 05156",72,1087,5,52,89
+vermont,Hazen Uhsd # 26,/vermont/hardwick/287-Hazen-Uhsd--26/,"126 Hazen Union Drive, Hardwick, VT 05843",94,1041,6,51,68
+vermont,Oxbow Uhsd #30,/vermont/bradford/292-Oxbow-Uhsd-30/,"36 Oxbow Drive, Bradford, VT 05033",96,1135,15,42,89
+vermont,West Rutland School,/vermont/west-rutland/310-West-Rutland-School/,"713 Main Street, West Rutland, VT 05777",85,1042,20,Not available,78
+vermont,Williamstown Middle/High School,/vermont/williamstown/318-Williamstown-Middle-High-School/,"120 Hebert Road, Williamstown, VT 05679",82,1064,11,55,Not available
+vermont,Proctor Junior/Senior High School,/vermont/proctor/211-Proctor-Junior-Senior-High-School/,"4 Park Street, Proctor, VT 05765",94,1064,33,67,88
+vermont,Richford Junior/Senior High School,/vermont/richford/217-Richford-Junior-Senior-High-School/,"1 Corliss Heights, Richford, VT 05476",80,975,6,43,83
+vermont,Blue Mountain Usd #21,/vermont/newbury/278-Blue-Mountain-Usd-21/,"2420 U.S. 302, Newbury, VT 05081",96,1006,0,46,Not available
+vermont,Mill River Usd #40,/vermont/north-clarendon/288-Mill-River-Usd-40/,"2321 Middle Rd, North Clarendon, VT 05759",93,1058,25,61,85
+vermont,Whitcomb Junior/Senior High School,/vermont/bethel/34-Whitcomb-Junior-Senior-High-School/,"273 Pleasant Street, Bethel, VT 05032",86,988,0,Not available,Not available
+vermont,Otter Valley Uhsd #8,/vermont/brandon/202-Otter-Valley-Uhsd-8/,"2997 Franklin Street, Brandon, VT 05733",91,1039,13,48,80
+vermont,Winooski High School,/vermont/winooski/327-Winooski-High-School/,"80 Normand Street, Winooski, VT 05404",42,971,7,65,89
+vermont,Montpelier High School,/vermont/montpelier/172-Montpelier-High-School/,"5 High School Drive, Montpelier, VT 05602",85,1169,24,73,93
+vermont,Peoples Academy,/vermont/morristown/178-Peoples-Academy/,"202 Copley Avenue, Morristown, VT 05661",95,1114,15,56,69
+vermont,Mt. Anthony Senior Uhsd #14,/vermont/bennington/181-Mt.-Anthony-Senior-Uhsd-14/,"301 Park Street, Bennington, VT 05201",84,1046,11,62,82
+rhode-island,East Greenwich High School,/rhode-island/east-greenwich/80-East-Greenwich-High-School/,"300 Avenger Drive, East Greenwich, RI 02818",97,1693,0,82,Not available
+rhode-island,Exeter-West Greenwich Regional High School,/rhode-island/west-greenwich/105-Exeter-West-Greenwich-Regional-High-School/,"930 Nooseneck Hill Road, West Greenwich, RI 02817",95,1526,10,68,Not available
+rhode-island,Portsmouth High School,/rhode-island/portsmouth/189-Portsmouth-High-School/,"120 Education Lane, Portsmouth, RI 02871",96,1560,38,83,Not available
+rhode-island,Barrington High School,/rhode-island/barrington/1-Barrington-High-School/,"220 Lincoln Avenue, Barrington, RI 02806",95,1754,28,86,Not available
+rhode-island,Chariho High School,/rhode-island/richmond/34-Chariho-High-School/,"453 Switch Road, Richmond, RI 02894",92,1505,17,67,Not available
+rhode-island,North Kingstown Sr. High School,/rhode-island/north-kingstown/151-North-Kingstown-Sr.-High-School/,"150 Fairway Drive, North Kingstown, RI 02852",94,1602,17,82,Not available
+rhode-island,North Smitfield High School,/rhode-island/north-smithfield/168-North-Smitfield-High-School/,"412 Greenville Road, North Smithfield, RI 02896",93,1582,24,86,Not available
+rhode-island,Scituate High School,/rhode-island/scituate/245-Scituate-High-School/,"94 Trimtown Road, Scituate, RI 02857",97,1537,4,82,Not available
+rhode-island,Mt. Hope High School,/rhode-island/bristol/7-Mt.-Hope-High-School/,"199 Chestnut Street, Bristol, RI 02809",89,1600,8,66,Not available
+rhode-island,Narragansett High School,/rhode-island/narragansett/136-Narragansett-High-School/,"245 South Pier Road, Narragansett, RI 02882",95,1515,12,77,Not available
+rhode-island,Smithfield High School,/rhode-island/smithfield/249-Smithfield-High-School/,"90 Pleasant View Avenue, Smithfield, RI 02828",91,1472,14,77,Not available
+rhode-island,South Kingstown High School,/rhode-island/south-kingstown/255-South-Kingstown-High-School/,"215 Columbia Street, South Kingstown, RI 02879",94,1615,23,79,Not available
+rhode-island,Westerly High School,/rhode-island/westerly/302-Westerly-High-School/,"23 Ward Avenue, Westerly, RI 02891",93,1573,26,69,Not available
+rhode-island,Coventry High School,/rhode-island/coventry/41-Coventry-High-School/,"40 Reservoir Road, Coventry, RI 02816",90,1457,10,71,Not available
+rhode-island,Cranston High School West,/rhode-island/cranston/52-Cranston-High-School-West/,"80 Metropolitan Avenue, Cranston, RI 02920",92,1479,10,82,Not available
+rhode-island,Cumberland High School,/rhode-island/cumberland/74-Cumberland-High-School/,"2600 Mendon Road, Cumberland, RI 02864",90,1488,24,76,Not available
+rhode-island,Middletown High School,/rhode-island/middletown/133-Middletown-High-School/,"130 Valley Road, Middletown, RI 02842",93,1541,19,79,Not available
+rhode-island,North Providence High School,/rhode-island/north-providence/163-North-Providence-High-School/,"1828 Mineral Spring Avenue, North Providence, RI 02904",95,1398,7,76,Not available
+rhode-island,Tiverton High School,/rhode-island/tiverton/261-Tiverton-High-School/,"100 North Brayton Road, Tiverton, RI 02878",85,1437,8,67,Not available
+rhode-island,Toll Gate High School,/rhode-island/warwick/286-Toll-Gate-High-School/,"575 Centerville Road, Warwick, RI 02886",94,1513,10,71,Not available
+rhode-island,Jacqueline M. Walsh School,/rhode-island/pawtucket/888-Jacqueline-M.-Walsh-School/,"350 Division Street, Pawtucket, RI 02860",96,1406,11,69,Not available
+rhode-island,Burrillville High School,/rhode-island/harrisville/22-Burrillville-High-School/,"425 East Ave, Harrisville, RI 02830",91,1455,10,73,Not available
+rhode-island,East Greenwich High School,/rhode-island/east-greenwich/80-East-Greenwich-High-School/,"300 Avenger Drive, East Greenwich, RI 02818",97,1693,0,82,Not available
+rhode-island,Exeter-West Greenwich Regional High School,/rhode-island/west-greenwich/105-Exeter-West-Greenwich-Regional-High-School/,"930 Nooseneck Hill Road, West Greenwich, RI 02817",95,1526,10,68,Not available
+rhode-island,Portsmouth High School,/rhode-island/portsmouth/189-Portsmouth-High-School/,"120 Education Lane, Portsmouth, RI 02871",96,1560,38,83,Not available
+rhode-island,Barrington High School,/rhode-island/barrington/1-Barrington-High-School/,"220 Lincoln Avenue, Barrington, RI 02806",95,1754,28,86,Not available
+rhode-island,Chariho High School,/rhode-island/richmond/34-Chariho-High-School/,"453 Switch Road, Richmond, RI 02894",92,1505,17,67,Not available
+rhode-island,North Kingstown Sr. High School,/rhode-island/north-kingstown/151-North-Kingstown-Sr.-High-School/,"150 Fairway Drive, North Kingstown, RI 02852",94,1602,17,82,Not available
+rhode-island,North Smitfield High School,/rhode-island/north-smithfield/168-North-Smitfield-High-School/,"412 Greenville Road, North Smithfield, RI 02896",93,1582,24,86,Not available
+rhode-island,Scituate High School,/rhode-island/scituate/245-Scituate-High-School/,"94 Trimtown Road, Scituate, RI 02857",97,1537,4,82,Not available
+rhode-island,Mt. Hope High School,/rhode-island/bristol/7-Mt.-Hope-High-School/,"199 Chestnut Street, Bristol, RI 02809",89,1600,8,66,Not available
+rhode-island,Narragansett High School,/rhode-island/narragansett/136-Narragansett-High-School/,"245 South Pier Road, Narragansett, RI 02882",95,1515,12,77,Not available
+rhode-island,Smithfield High School,/rhode-island/smithfield/249-Smithfield-High-School/,"90 Pleasant View Avenue, Smithfield, RI 02828",91,1472,14,77,Not available
+rhode-island,South Kingstown High School,/rhode-island/south-kingstown/255-South-Kingstown-High-School/,"215 Columbia Street, South Kingstown, RI 02879",94,1615,23,79,Not available
+rhode-island,Westerly High School,/rhode-island/westerly/302-Westerly-High-School/,"23 Ward Avenue, Westerly, RI 02891",93,1573,26,69,Not available
+rhode-island,Coventry High School,/rhode-island/coventry/41-Coventry-High-School/,"40 Reservoir Road, Coventry, RI 02816",90,1457,10,71,Not available
+rhode-island,Cranston High School West,/rhode-island/cranston/52-Cranston-High-School-West/,"80 Metropolitan Avenue, Cranston, RI 02920",92,1479,10,82,Not available
+rhode-island,Cumberland High School,/rhode-island/cumberland/74-Cumberland-High-School/,"2600 Mendon Road, Cumberland, RI 02864",90,1488,24,76,Not available
+rhode-island,Middletown High School,/rhode-island/middletown/133-Middletown-High-School/,"130 Valley Road, Middletown, RI 02842",93,1541,19,79,Not available
+rhode-island,North Providence High School,/rhode-island/north-providence/163-North-Providence-High-School/,"1828 Mineral Spring Avenue, North Providence, RI 02904",95,1398,7,76,Not available
+rhode-island,Tiverton High School,/rhode-island/tiverton/261-Tiverton-High-School/,"100 North Brayton Road, Tiverton, RI 02878",85,1437,8,67,Not available
+rhode-island,Toll Gate High School,/rhode-island/warwick/286-Toll-Gate-High-School/,"575 Centerville Road, Warwick, RI 02886",94,1513,10,71,Not available
+rhode-island,Jacqueline M. Walsh School,/rhode-island/pawtucket/888-Jacqueline-M.-Walsh-School/,"350 Division Street, Pawtucket, RI 02860",96,1406,11,69,Not available
+rhode-island,Burrillville High School,/rhode-island/harrisville/22-Burrillville-High-School/,"425 East Ave, Harrisville, RI 02830",91,1455,10,73,Not available
+rhode-island,Cranston High School East,/rhode-island/cranston/51-Cranston-High-School-East/,"899 Park Avenue, Cranston, RI 02910",91,1397,9,63,Not available
+rhode-island,West Warwick High School,/rhode-island/west-warwick/296-West-Warwick-High-School/,"1 Webster Knight Drive, West Warwick, RI 02893",86,1379,14,60,Not available
+rhode-island,Davies Career-Tech High School,/rhode-island/lincoln/19-Davies-Career-Tech-High-School/,"50 Jenckes Hill Road, Lincoln, RI 02865",81,1309,1,56,Not available
+rhode-island,Pilgrim High School,/rhode-island/warwick/280-Pilgrim-High-School/,"111 Pilgrim Parkway, Warwick, RI 02888",90,1400,8,70,Not available
+rhode-island,Metropolitan Career Tech Center,/rhode-island/providence/18-Metropolitan-Career-Tech-Center/,"325 Public Street, Providence, RI 02905",90,1288,0,58,Not available
+rhode-island,East Providence High School,/rhode-island/east-providence/90-East-Providence-High-School/,"2000 Pawtucket Avenue, East Providence, RI 02914",84,1341,11,63,Not available
+rhode-island,Johnston Senior High School,/rhode-island/johnston/116-Johnston-Senior-High-School/,"345 Cherry Hill Road, Johnston, RI 02919",85,1374,6,70,Not available
+rhode-island,Rogers High School,/rhode-island/newport/143-Rogers-High-School/,"15 Wickham Road, Newport, RI 02840",82,1324,17,51,Not available
+rhode-island,William E. Tolman High School,/rhode-island/pawtucket/185-William-E.-Tolman-High-School/,"150 Exchange Street, Pawtucket, RI 02860",81,1226,11,46,Not available
+rhode-island,Providence Career and Technical School,/rhode-island/providence/891-Providence-Career-And-Technical-School/,"41 Fricker Street, Providence, RI 02903",88,1044,11,46,Not available
+rhode-island,Central Falls Sr High School,/rhode-island/central-falls/29-Central-Falls-Sr-High-School/,"24 Summer Street, Central Falls, RI 02863",78,1040,12,40,Not available
+rhode-island,Shea High School,/rhode-island/pawtucket/184-Shea-High-School/,"485 East Avenue, Pawtucket, RI 02860",81,1157,8,51,Not available
+rhode-island,Central High School,/rhode-island/providence/211-Central-High-School/,"70 Fricker Street, Providence, RI 02903",70,1076,11,54,Not available
+rhode-island,Woonsocket High School,/rhode-island/woonsocket/317-Woonsocket-High-School/,"777 Cass Avenue, Woonsocket, RI 02895",67,1347,11,49,Not available
+rhode-island,Hope High School,/rhode-island/providence/217-Hope-High-School/,"324 Hope Street, Providence, RI 02906",65,1107,15,37,Not available
+rhode-island,Mount Pleasant High School,/rhode-island/providence/222-Mount-Pleasant-High-School/,"434 Mount Pleasant Avenue, Providence, RI 02908",62,1069,7,32,Not available
+rhode-island,Dr. Jorge Alvarez High School,/rhode-island/providence/604-Dr.-Jorge-Alvarez-High-School/,"375 Adelaide Avenue, Providence, RI 02907",55,1032,14,45,Not available
+connecticut,Avon High School,/connecticut/avon/73-Avon-High-School/,"510 West Avon Road, Avon, CT 06001",97,1196,39,90,94
+connecticut,Darien High School,/connecticut/darien/222-Darien-High-School/,"80 High School Lane, Darien, CT 06820",98,1210,28,89,95
+connecticut,Glastonbury High School,/connecticut/glastonbury/329-Glastonbury-High-School/,"330 Hubbard Street, Glastonbury, CT 06033",99,1152,33,89,93
+connecticut,Greenwich High School,/connecticut/greenwich/343-Greenwich-High-School/,"10 Hillside Road, Greenwich, CT 06830",97,1180,34,85,94
+connecticut,Joel Barlow High School,/connecticut/redding/802-Joel-Barlow-High-School/,"100 Black Rock Turnpike, Redding, CT 06896",97,1157,25,88,95
+connecticut,Simsbury High School,/connecticut/simsbury/837-Simsbury-High-School/,"34 Farms Village Road, Simsbury, CT 06070",98,1196,37,91,94
+connecticut,Trumbull High School,/connecticut/trumbull/947-Trumbull-High-School/,"72 Strobel Road, Trumbull, CT 06611",98,1131,13,90,95
+connecticut,Hall High School,/connecticut/west-hartford/1023-Hall-High-School/,"975 North Main Street, West Hartford, CT 06117",97,1181,39,86,91
+connecticut,Weston High School,/connecticut/weston/1048-Weston-High-School/,"115 School Road, Weston, CT 06883",Not available,1206,31,88,93
+connecticut,Staples High School,/connecticut/westport/1055-Staples-High-School/,"70 North Avenue, Westport, CT 06880",98,1219,35,85,96
+connecticut,Wilton High School,/connecticut/wilton/1071-Wilton-High-School/,"395 Danbury Road, Wilton, CT 06897",Not available,1197,31,88,96
+connecticut,Connecticut Ib Academy,/connecticut/east-hartford/1763-Connecticut-Ib-Academy/,"857 Forbes Street, East Hartford, CT 06118",100,1108,23,96,95
+connecticut,Fairfield Ludlowe High School,/connecticut/fairfield/1831-Fairfield-Ludlowe-High-School/,"785 Unquowa Road, Fairfield, CT 06824",98,1173,27,89,94
+connecticut,Marine Science Magnet High School Of Southeastern Connecticut,/connecticut/groton/3251-Marine-Science-Magnet-High-School-Of-Southeastern-Connecticut/,"130 Shennecossett Road, Groton, CT 06340",Not available,1149,36,79,91
+connecticut,Brookfield High School,/connecticut/brookfield/158-Brookfield-High-School/,"45 Long Meadow Hill Road, Brookfield, CT 06804",96,1102,30,85,92
+connecticut,Cheshire High School,/connecticut/cheshire/175-Cheshire-High-School/,"525 South Main Street, Cheshire, CT 06410",Not available,1108,27,87,96
+connecticut,Avon High School,/connecticut/avon/73-Avon-High-School/,"510 West Avon Road, Avon, CT 06001",97,1196,39,90,94
+connecticut,Darien High School,/connecticut/darien/222-Darien-High-School/,"80 High School Lane, Darien, CT 06820",98,1210,28,89,95
+connecticut,Glastonbury High School,/connecticut/glastonbury/329-Glastonbury-High-School/,"330 Hubbard Street, Glastonbury, CT 06033",99,1152,33,89,93
+connecticut,Greenwich High School,/connecticut/greenwich/343-Greenwich-High-School/,"10 Hillside Road, Greenwich, CT 06830",97,1180,34,85,94
+connecticut,Joel Barlow High School,/connecticut/redding/802-Joel-Barlow-High-School/,"100 Black Rock Turnpike, Redding, CT 06896",97,1157,25,88,95
+connecticut,Simsbury High School,/connecticut/simsbury/837-Simsbury-High-School/,"34 Farms Village Road, Simsbury, CT 06070",98,1196,37,91,94
+connecticut,Trumbull High School,/connecticut/trumbull/947-Trumbull-High-School/,"72 Strobel Road, Trumbull, CT 06611",98,1131,13,90,95
+connecticut,Hall High School,/connecticut/west-hartford/1023-Hall-High-School/,"975 North Main Street, West Hartford, CT 06117",97,1181,39,86,91
+connecticut,Weston High School,/connecticut/weston/1048-Weston-High-School/,"115 School Road, Weston, CT 06883",Not available,1206,31,88,93
+connecticut,Staples High School,/connecticut/westport/1055-Staples-High-School/,"70 North Avenue, Westport, CT 06880",98,1219,35,85,96
+connecticut,Wilton High School,/connecticut/wilton/1071-Wilton-High-School/,"395 Danbury Road, Wilton, CT 06897",Not available,1197,31,88,96
+connecticut,Connecticut Ib Academy,/connecticut/east-hartford/1763-Connecticut-Ib-Academy/,"857 Forbes Street, East Hartford, CT 06118",100,1108,23,96,95
+connecticut,Fairfield Ludlowe High School,/connecticut/fairfield/1831-Fairfield-Ludlowe-High-School/,"785 Unquowa Road, Fairfield, CT 06824",98,1173,27,89,94
+connecticut,Marine Science Magnet High School Of Southeastern Connecticut,/connecticut/groton/3251-Marine-Science-Magnet-High-School-Of-Southeastern-Connecticut/,"130 Shennecossett Road, Groton, CT 06340",Not available,1149,36,79,91
+connecticut,Brookfield High School,/connecticut/brookfield/158-Brookfield-High-School/,"45 Long Meadow Hill Road, Brookfield, CT 06804",96,1102,30,85,92
+connecticut,Cheshire High School,/connecticut/cheshire/175-Cheshire-High-School/,"525 South Main Street, Cheshire, CT 06410",Not available,1108,27,87,96
+connecticut,Ellington High School,/connecticut/ellington/285-Ellington-High-School/,"37 Maple Street, Ellington, CT 06029",97,1064,28,82,90
+connecticut,Fairfield Warde High School,/connecticut/fairfield/303-Fairfield-Warde-High-School/,"755 Melville Avenue, Fairfield, CT 06825",97,1088,27,90,93
+connecticut,Granby Memorial High School,/connecticut/granby/334-Granby-Memorial-High-School/,"315 Salmon Brook Street, Granby, CT 06035",96,1110,36,83,94
+connecticut,Masuk High School,/connecticut/monroe/522-Masuk-High-School/,"1014 Monroe Turnpike, Monroe, CT 06468",97,1130,32,89,95
+connecticut,Old Saybrook Senior High School,/connecticut/old-saybrook/700-Old-Saybrook-Senior-High-School/,"1111 Boston Post Road, Old Saybrook, CT 06475",96,1142,25,85,92
+connecticut,Northwestern Regional High School,/connecticut/winchester/799-Northwestern-Regional-High-School/,"100 Battistoni Drive, Winchester, CT 06098",100,1134,10,77,87
+connecticut,Rham High School,/connecticut/hebron/800-Rham-High-School/,"85 Wall Street, Hebron, CT 06248",95,1146,22,81,91
+connecticut,Rocky Hill High School,/connecticut/rocky-hill/813-Rocky-Hill-High-School/,"50 Chapin Avenue, Rocky Hill, CT 06067",98,1066,19,83,91
+connecticut,South Windsor High School,/connecticut/south-windsor/849-South-Windsor-High-School/,"161 Nevers Road, South Windsor, CT 06074",97,1083,24,88,91
+connecticut,Conard High School,/connecticut/west-hartford/1021-Conard-High-School/,"110 Beechwood Road, West Hartford, CT 06107",95,1099,42,85,92
+connecticut,Woodstock Academy,/connecticut/woodstock/1104-Woodstock-Academy/,"57 Academy Rd, Woodstock, CT 06281",96,1067,17,81,88
+connecticut,E. O. Smith High School,/connecticut/mansfield/44-E.-O.-Smith-High-School/,"1235 Storrs Road, Mansfield, CT 06268",94,1102,7,77,94
+connecticut,Bethel High School,/connecticut/bethel/84-Bethel-High-School/,"300 Whittlesey Drive, Bethel, CT 06801",96,1055,21,71,88
+connecticut,Bolton High School,/connecticut/bolton/96-Bolton-High-School/,"72 Brandy Street, Bolton, CT 06043",Not available,1050,15,85,93
+connecticut,Bacon Academy,/connecticut/colchester/188-Bacon-Academy/,"611 Norwich Avenue, Colchester, CT 06415",95,1055,30,82,93
+connecticut,Joseph A. Foran High School,/connecticut/milford/509-Joseph-A.-Foran-High-School/,"80 Foran Road, Milford, CT 06460",96,1054,39,81,94
+connecticut,Lewis S. Mills High School,/connecticut/burlington/753-Lewis-S.-Mills-High-School/,"26 Lyon Road, Burlington, CT 06013",95,1134,19,76,93
+connecticut,Pomperaug Regional High School,/connecticut/southbury/773-Pomperaug-Regional-High-School/,"234 Judd Road, Southbury, CT 06488",94,1127,25,89,93
+connecticut,Housatonic Valley Regional High School,/connecticut/canaan/793-Housatonic-Valley-Regional-High-School/,"246 Warren Turnpike Road, Canaan, CT 06031",97,1014,7,66,80
+connecticut,Southington High School,/connecticut/southington/859-Southington-High-School/,"720 Pleasant Street, Southington, CT 06489",96,1062,18,80,91
+connecticut,Tolland High School,/connecticut/tolland/928-Tolland-High-School/,"1 Eagle Hill, Tolland, CT 06084",96,1137,11,85,87
+connecticut,Lyman Hall High School,/connecticut/wallingford/965-Lyman-Hall-High-School/,"70 Pond Hill Road, Wallingford, CT 06492",96,1024,23,75,90
+connecticut,Wolcott High School,/connecticut/wolcott/1098-Wolcott-High-School/,"457 Bound Line Road, Wolcott, CT 06716",95,1015,16,82,91
+connecticut,The Academy Of Information Technology,/connecticut/stamford/1777-The-Academy-Of-Information-Technology/,"411 High Ridge Road, Stamford, CT 06905",97,1060,32,82,89
+connecticut,University High School,/connecticut/hartford/1833-University-High-School/,"351 Mark Twain Drive, Hartford, CT 06105",95,1035,10,86,89
+connecticut,Oxford High School,/connecticut/oxford/3130-Oxford-High-School/,"61 Quaker Farms Road, Oxford, CT 06478",97,1061,21,80,93
+connecticut,H. H. Ellis Technical High School,/connecticut/killingly/9-H.-H.-Ellis-Technical-High-School/,"613 Upper Maple Street, Killingly, CT 06239",100,939,0,28,56
+connecticut,Branford High School,/connecticut/branford/98-Branford-High-School/,"185 East Main Street, Branford, CT 06405",95,1029,22,79,85
+connecticut,Ledyard High School,/connecticut/ledyard/445-Ledyard-High-School/,"24 Gallup Hill Road, Ledyard, CT 06339",94,1054,16,67,87
+connecticut,Litchfield High School,/connecticut/litchfield/450-Litchfield-High-School/,"14 Plumb Hill Road, Litchfield, CT 06759",93,1078,25,77,89
+connecticut,Jonathan Law High School,/connecticut/milford/508-Jonathan-Law-High-School/,"20 Lansdale Avenue, Milford, CT 06460",94,1058,46,74,87
+connecticut,Montville High School,/connecticut/montville/530-Montville-High-School/,"800 Old Colchester Road, Montville, CT 06370",94,1027,13,74,84
+connecticut,Wheeler High School,/connecticut/north-stonington/664-Wheeler-High-School/,"298 Norwich-Westerly Road, North Stonington, CT 06359",92,997,22,62,85
+connecticut,Wamogo Regional High School,/connecticut/litchfield/748-Wamogo-Regional-High-School/,"98 Wamogo Road, Litchfield, CT 06759",Not available,1042,35,63,87
+connecticut,Coginchaug Regional High School,/connecticut/durham/760-Coginchaug-Regional-High-School/,"135 Pickett Lane, Durham, CT 06422",95,1075,14,81,86
+connecticut,Nonnewaug High School,/connecticut/woodbury/769-Nonnewaug-High-School/,"5 Minortown Road, Woodbury, CT 06798",95,1042,25,73,87
+connecticut,Lyme-Old Lyme High School,/connecticut/old-lyme/789-Lyme-Old-Lyme-High-School/,"69 Lyme Street, Old Lyme, CT 06371",94,1140,29,86,94
+connecticut,Waterford High School,/connecticut/waterford/1007-Waterford-High-School/,"20 Rope Ferry Road, Waterford, CT 06385",94,1062,23,74,89
+connecticut,Westbrook High School,/connecticut/westbrook/1046-Westbrook-High-School/,"156 McVeagh Road, Westbrook, CT 06498",93,1089,3,77,89
+connecticut,Act Magnet School (Arts At The Capitol Theater) -,/connecticut/windham/3134-Act-Magnet-School-Arts-At-The-Capitol-Theater--/,"896 Main Street, Windham, CT 06226",100,930,5,71,82
+connecticut,E. C. Goodwin Technical High School,/connecticut/new-britain/4-E.-C.-Goodwin-Technical-High-School/,"735 Slater Road, New Britain, CT 06053",98,856,0,40,53
+connecticut,Emmett O'brien Technical High School,/connecticut/ansonia/7-Emmett-Obrien-Technical-High-School/,"141 Prindle Avenue, Ansonia, CT 06401",98,880,0,50,74
+connecticut,Henry Abbott Technical High School,/connecticut/danbury/10-Henry-Abbott-Technical-High-School/,"21 Hayestown Avenue, Danbury, CT 06811",97,928,0,57,62
+connecticut,Norwich Technical High School,/connecticut/norwich/13-Norwich-Technical-High-School/,"7 Mahan Drive, Norwich, CT 06360",Not available,947,0,42,66
+connecticut,Platt Technical High School,/connecticut/milford/15-Platt-Technical-High-School/,"600 Orange Avenue, Milford, CT 06461",96,922,0,48,80
+connecticut,Middletown High School,/connecticut/middletown/504-Middletown-High-School/,"200 La Rosa Lane, Middletown, CT 06457",95,964,37,71,85
+connecticut,North Branford High School,/connecticut/north-branford/651-North-Branford-High-School/,"49 Caputo Road, North Branford, CT 06471",94,1011,19,83,94
+connecticut,Stamford High School,/connecticut/stamford/887-Stamford-High-School/,"55 Strawberry Hill Ave, Stamford, CT 06902",95,964,24,73,84
+connecticut,Stonington High School,/connecticut/stonington/897-Stonington-High-School/,"176 South Broad Street, Stonington, CT 06379",92,1071,20,79,86
+connecticut,Wethersfield High School,/connecticut/wethersfield/1063-Wethersfield-High-School/,"411 Wolcott Hill Road, Wethersfield, CT 06109",92,1036,17,84,88
+connecticut,Windsor Locks High School,/connecticut/windsor-locks/1092-Windsor-Locks-High-School/,"58 South Elm Street, Windsor Locks, CT 06096",94,1011,16,75,77
+connecticut,The Gilbert School,/connecticut/winchester/1103-The-Gilbert-School/,"200 Williams Avenue, Winchester, CT 06098",93,998,19,58,79
+connecticut,Great Path Acad Mcc,/connecticut/manchester/3675-Great-Path-Acad-Mcc/,"60 Bidwell Street, Manchester, CT 06040",93,982,0,73,74
+connecticut,Oliver Wolcott Technical High School,/connecticut/torrington/14-Oliver-Wolcott-Technical-High-School/,"75 Oliver Street, Torrington, CT 06790",94,924,0,34,67
+connecticut,Vinal Technical High School,/connecticut/middletown/16-Vinal-Technical-High-School/,"60 Daniels Street, Middletown, CT 06457",95,892,0,33,71
+connecticut,W. F. Kaynor Technical High School,/connecticut/waterbury/17-W.-F.-Kaynor-Technical-High-School/,"43 Tompkins Street, Waterbury, CT 06708",Not available,941,0,62,84
+connecticut,Windham Technical High School,/connecticut/windham/18-Windham-Technical-High-School/,"210 Birch Street, Windham, CT 06226",Not available,918,0,34,66
+connecticut,Bristol Eastern High School,/connecticut/bristol/144-Bristol-Eastern-High-School/,"632 King Street, Bristol, CT 06010",94,975,22,59,81
+connecticut,Hamden High School,/connecticut/hamden/382-Hamden-High-School/,"2040 Dixwell Avenue, Hamden, CT 06514",93,977,24,72,82
+connecticut,Cooperative High School,/connecticut/new-haven/616-Cooperative-High-School/,"177 College Street, New Haven, CT 06510",96,905,30,84,81
+connecticut,New Milford High School,/connecticut/new-milford/632-New-Milford-High-School/,"388 Danbury Road, New Milford, CT 06776",82,1062,31,79,93
+connecticut,Brien Mcmahon High School,/connecticut/norwalk/666-Brien-Mcmahon-High-School/,"300 Highland Ave, Norwalk, CT 06854",94,939,23,76,83
+connecticut,Norwalk High School,/connecticut/norwalk/677-Norwalk-High-School/,"55 County Street, Norwalk, CT 06851",94,968,22,80,82
+connecticut,Westhill High School,/connecticut/stamford/890-Westhill-High-School/,"125 Roxbury Rd, Stamford, CT 06902",90,978,26,71,83
+connecticut,Bunnell High School,/connecticut/stratford/901-Bunnell-High-School/,"1 Bulldog Boulevard, Stratford, CT 06614",94,953,15,78,86
+connecticut,Watertown High School,/connecticut/watertown/1015-Watertown-High-School/,"324 French Street, Watertown, CT 06795",92,994,21,76,87
+connecticut,Windsor High School,/connecticut/windsor/1089-Windsor-High-School/,"50 Sage Park Road, Windsor, CT 06095",90,989,21,75,76
+connecticut,Norwich Free Academy,/connecticut/norwich/1102-Norwich-Free-Academy/,"305 Broadway, Norwich, CT 06360",89,986,17,71,81
+connecticut,Waterbury Arts Magnet School (High),/connecticut/waterbury/1853-Waterbury-Arts-Magnet-School-High/,"16 South Elm Street, Waterbury, CT 06706",94,946,29,81,90
+connecticut,Information Technology And Software Engineering High School,/connecticut/bridgeport/3693-Information-Technology-And-Software-Engineering-High-School/,"840 Old Town Road, Bridgeport, CT 06606",93,964,2,76,76
+connecticut,Ella T. Grasso Southeastern Technical High School,/connecticut/groton/5-Ella-T.-Grasso-Southeastern-Technical-High-School/,"189 Fort Hill Road, Groton, CT 06340",Not available,916,0,38,68
+connecticut,H. C. Wilcox Technical High School,/connecticut/meriden/8-H.-C.-Wilcox-Technical-High-School/,"298 Oregon Road, Meriden, CT 06451",Not available,931,4,51,75
+connecticut,Ansonia High School,/connecticut/ansonia/62-Ansonia-High-School/,"20 Pulaski Highway, Ansonia, CT 06401",91,957,19,74,79
+connecticut,Metropolitan Learning Center,/connecticut/bloomfield/171-Metropolitan-Learning-Center/,"1551 Blue Hills Avenue, Bloomfield, CT 06002",95,955,30,77,74
+connecticut,East Hartford High School,/connecticut/east-hartford/249-East-Hartford-High-School/,"869 Forbes Street, East Hartford, CT 06118",93,922,12,57,76
+connecticut,Fitch Senior High School,/connecticut/groton/363-Fitch-Senior-High-School/,"101 Groton Long Point Road, Groton, CT 06340",88,1018,20,62,84
+connecticut,Manchester High School,/connecticut/manchester/464-Manchester-High-School/,"134 Middle Turnpike East, Manchester, CT 06040",90,958,14,64,77
+connecticut,Sound School,/connecticut/new-haven/619-Sound-School/,"60 South Water Street, New Haven, CT 06519",92,954,8,82,76
+connecticut,Terryville High School,/connecticut/plymouth/724-Terryville-High-School/,"33 North Harwinton Avenue, Plymouth, CT 06786",87,1002,12,63,79
+connecticut,Putnam High School,/connecticut/putnam/737-Putnam-High-School/,"152 Woodstock Avenue, Putnam, CT 06260",93,936,23,68,77
+connecticut,Stratford High School,/connecticut/stratford/910-Stratford-High-School/,"45 North Parade Street, Stratford, CT 06615",91,963,19,75,79
+connecticut,Rockville High School,/connecticut/vernon/954-Rockville-High-School/,"70 Loveland Hill Road, Vernon, CT 06066",78,1003,6,68,89
+connecticut,Biotechnology Research And Zoological Studies High At The Fa,/connecticut/bridgeport/3691-Biotechnology-Research-And-Zoological-Studies-High-At-The-Fa/,"840 Old Town Road, Bridgeport, CT 06606",93,940,0,83,84
+connecticut,Academy Of Aerospace And Engineering,/connecticut/windsor/3156-Academy-Of-Aerospace-And-Engineering/,"1101 Kennedy Road, Windsor, CT 06095",84,1085,29,88,86
+connecticut,Aerospace/Hydrospace Engineering And Physical Sciences High School,/connecticut/bridgeport/3692-Aerospace-Hydrospace-Engineering-And-Physical-Sciences-High-School/,"840 Old Town Road, Bridgeport, CT 06606",87,993,0,81,85
+connecticut,Bullard-Havens Technical High School,/connecticut/bridgeport/3-Bullard-Havens-Technical-High-School/,"500 Palisade Avenue, Bridgeport, CT 06610",Not available,875,0,66,89
+connecticut,Eli Whitney Technical High School,/connecticut/hamden/6-Eli-Whitney-Technical-High-School/,"100 Fairview Avenue, Hamden, CT 06514",94,827,3,36,57
+connecticut,Howell Cheney Technical High School,/connecticut/manchester/11-Howell-Cheney-Technical-High-School/,"791 Middle Turnpike West, Manchester, CT 06040",Not available,882,0,34,70
+connecticut,Bloomfield High School,/connecticut/bloomfield/90-Bloomfield-High-School/,"5 Huckleberry Lane, Bloomfield, CT 06002",90,949,14,72,67
+connecticut,Crec Medical Professions and Teacher Preparation Academy,/connecticut/new-britain/3195-Crec-Medical-Professions-And-Teacher-Preparation-Academy/,"600 Slater Road, New Britain, CT 06053",Not available,937,12,73,74
+connecticut,Kinsella Magnet School,/connecticut/hartford/410-Kinsella-Magnet-School/,"65 Van Block Avenue, Hartford, CT 06106",93,884,0,91,73
+connecticut,Hartford Magnet Trinity College Academy,/connecticut/hartford/1512-Hartford-Magnet-Trinity-College-Academy/,"53 Vernon Street, Hartford, CT 06106",86,999,15,68,81
+connecticut,Connecticut River Academy,/connecticut/east-hartford/3223-Connecticut-River-Academy/,"One Riverside Dr, East Hartford, CT 06118",87,913,0,80,75
+connecticut,Sports And Medical Sciences Academy,/connecticut/hartford/1645-Sports-And-Medical-Sciences-Academy/,"280 Huyshope Avenue, Hartford, CT 06106",92,957,10,76,79
+connecticut,Greater Hartford Academy Of  The Arts - Full Time,/connecticut/hartford/3125-Greater-Hartford-Academy-Of--The-Arts---Full-Time/,"15 Vernon Street, Hartford, CT 06106",92,942,16,66,83
+connecticut,Crec - Public Safety Academy Interdistrict Magnet,/connecticut/enfield/3149-Crec---Public-Safety-Academy-Interdistrict-Magnet/,"1617 King Street, Enfield, CT 06082",88,884,20,72,53
+connecticut,Global Exp Magnet,/connecticut/bloomfield/3678-Global-Exp-Magnet/,"44 Griffin Road South, Bloomfield, CT 06002",Not available,966,0,80,85
+connecticut,A. I. Prince Technical High School,/connecticut/hartford/2-A.-I.-Prince-Technical-High-School/,"401 Flatbush Avenue, Hartford, CT 06106",Not available,820,0,46,61
+connecticut,Central High School,/connecticut/bridgeport/111-Central-High-School/,"1 Lincoln Boulevard, Bridgeport, CT 06606",76,886,4,62,74
+connecticut,Danbury High School,/connecticut/danbury/205-Danbury-High-School/,"43 Clapboard Ridge Road, Danbury, CT 06811",81,946,21,70,87
+connecticut,Francis T. Maloney High School,/connecticut/meriden/482-Francis-T.-Maloney-High-School/,"121 Gravel Street, Meriden, CT 06450",86,923,16,54,82
+connecticut,Orville H. Platt High School,/connecticut/meriden/488-Orville-H.-Platt-High-School/,"220 Coe Avenue, Meriden, CT 06451",82,903,22,58,76
+connecticut,New Haven Academy,/connecticut/new-haven/579-New-Haven-Academy/,"444 Orange Street, New Haven, CT 06511",76,922,11,75,83
+connecticut,Hill Regional Career High School,/connecticut/new-haven/586-Hill-Regional-Career-High-School/,"140 Legion Avenue, New Haven, CT 06519",91,902,24,75,85
+connecticut,High School in the Community,/connecticut/new-haven/588-High-School-In-The-Community/,"175 Water St, New Haven, CT 06511",67,911,15,64,76
+connecticut,Torrington High School,/connecticut/torrington/935-Torrington-High-School/,"50 Major Besse Drive, Torrington, CT 06790",72,944,11,58,80
+connecticut,West Haven High School,/connecticut/west-haven/1043-West-Haven-High-School/,"1 Mcdonough Plz, West Haven, CT 06516",85,921,12,66,76
+connecticut,Windham High School,/connecticut/windham/1081-Windham-High-School/,"355 High Street, Windham, CT 06226",83,844,19,54,68
+connecticut,Classical Magnet School,/connecticut/hartford/1764-Classical-Magnet-School/,"85 Woodland Street, Hartford, CT 06105",89,947,0,81,84
+connecticut,Pathways Academy of Technology and Design,/connecticut/east-hartford/1765-Pathways-Academy-Of-Technology-And-Design/,"2 Pent Road, East Hartford, CT 06118",85,901,10,66,67
+connecticut,Capital Preparatory Magnet School,/connecticut/hartford/1868-Capital-Preparatory-Magnet-School/,"1304 Main Street, Hartford, CT 06103",Not available,884,0,83,75
+connecticut,Ib Global Communications Academy,/connecticut/hartford/3160-Ib-Global-Communications-Academy/,"85 Edwards Street, Hartford, CT 06120",92,811,28,85,73
+connecticut,Quinebaug Valley Middle College High School,/connecticut/danielson/3166-Quinebaug-Valley-Middle-College-High-School/,"742 Upper Maple Street, Danielson, CT 06239",68,915,0,47,Not available
+connecticut,Bassick High School,/connecticut/bridgeport/106-Bassick-High-School/,"1181 Fairfield Avenue, Bridgeport, CT 06605",58,778,3,50,65
+connecticut,Harding High School,/connecticut/bridgeport/118-Harding-High-School/,"1734 Central Avenue, Bridgeport, CT 06610",62,782,3,46,64
+connecticut,Hphs Law And Government Academy,/connecticut/hartford/3206-Hphs-Law-And-Government-Academy/,"55 Forest Street, Hartford, CT 06105",55,806,12,44,77
+connecticut,Hphs Academy Of Engineering And Green Technology,/connecticut/hartford/3204-Hphs-Academy-Of-Engineering-And-Green-Technology/,"55 Forest Street, Hartford, CT 06105",60,778,0,40,78
+connecticut,Journalism And Media High School,/connecticut/hartford/3202-Journalism-And-Media-High-School/,"150 Tower Avenue, Hartford, CT 06120",85,805,4,Not available,Not available
+connecticut,Hphs Nursing Academy,/connecticut/hartford/3201-Hphs-Nursing-Academy/,"55 Forest Street, Hartford, CT 06105",67,787,7,34,59
+connecticut,New Britain High School,/connecticut/new-britain/553-New-Britain-High-School/,"110 Mill Street, New Britain, CT 06051",77,865,14,52,72
+connecticut,James Hillhouse High School,/connecticut/new-haven/591-James-Hillhouse-High-School/,"480 Sherman Parkway, New Haven, CT 06511",72,808,9,58,65
+connecticut,Wilbur Cross High School,/connecticut/new-haven/607-Wilbur-Cross-High-School/,"181 Mitchell Drive, New Haven, CT 06511",81,890,15,60,71
+connecticut,New London High School,/connecticut/new-london/626-New-London-High-School/,"490 Jefferson Avenue, New London, CT 06320",65,815,14,57,76
+connecticut,Crosby High School,/connecticut/waterbury/980-Crosby-High-School/,"300 Pierpont Road, Waterbury, CT 06705",66,801,7,56,71
+connecticut,John F. Kennedy High School,/connecticut/waterbury/988-John-F.-Kennedy-High-School/,"422 Highland Avenue, Waterbury, CT 06708",75,837,12,56,67
+connecticut,Wilby High School,/connecticut/waterbury/997-Wilby-High-School/,"568 Bucks Hill Road, Waterbury, CT 06704",74,807,12,54,59
+connecticut,Culinary Arts Academy,/connecticut/hartford/3150-Culinary-Arts-Academy/,"85 Sigourney Street, Hartford, CT 06105",72,785,0,45,74
+connecticut,High School Inc.,/connecticut/hartford/3199-High-School-Inc./,"875 Asylum Avenue, Hartford, CT 06105",80,817,0,60,68
+connecticut,Alternative Center For Excellence,/connecticut/danbury/219-Alternative-Center-For-Excellence/,"26 Locust Avenue, Danbury, CT 06810",Not available,800,0,39,Not available
+connecticut,Briggs High School,/connecticut/norwalk/668-Briggs-High-School/,"350 Main Avenue, Norwalk, CT 06851",Not available,803,0,23,Not available
+connecticut,Stevens Alternate High School,/connecticut/east-hartford/1856-Stevens-Alternate-High-School/,"40 Butternut Drive, East Hartford, CT 06118",Not available,729,0,19,Not available
+connecticut,Two Rivers Magnet High School,/connecticut/hartford/3696-Two-Rivers-Magnet-High-School/,"160 Huyshope Avenue, Hartford, CT 06106",Not available,982,15,72,69
+connecticut,Capitol Community College Magnet Academy,/connecticut/hartford/3793-Capitol-Community-College-Magnet-Academy/,"950 Main Street, Hartford, CT 06103",Not available,947,0,71,50
